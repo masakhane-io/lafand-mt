@@ -8,6 +8,7 @@ Step 1: Install the necessary modules in requirments.txt
 
 Step 2: Fine-tune the model, you may use the *base* model e.g "google/byt5-base", "google/mt5-base" and "facebook/m2m100_418M"
 
+```
 CUDA_VISIBLE_DEVICES=0 python run_translation.py \
     --model_name_or_path google/byt5-base \
     --do_train \
@@ -28,3 +29,4 @@ CUDA_VISIBLE_DEVICES=0 python run_translation.py \
     --save_steps 50000 \
     --num_beams 10 \
     --do_predict
+```
