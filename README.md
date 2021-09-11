@@ -31,6 +31,29 @@ python run_translation.py \
     --do_predict
 ```
 
+Testing the model:
+
+```
+python run_translation.py \
+    --model_name_or_path byt5_en_yo/en_yo \
+    --source_lang en \
+    --target_lang yo \
+    --source_prefix "translate English to Yoruba: " \
+    --train_file data/en_yo/train.json \
+    --validation_file data/en_yo/dev.json \
+    --test_file data/en_yo/test.json \
+    --output_dir byt5_en_yo \
+    --max_source_length 200 \
+    --max_target_length 200 \
+    --per_device_train_batch_size=10 \
+    --per_device_eval_batch_size=10 \
+    --overwrite_output_dir \
+    --predict_with_generate \
+    --save_steps 50000 \
+    --num_beams 10 \
+    --do_predict
+```
+
 For MBART and M2M100 e.g "facebook/m2m100_418M", you need to specify the language to generate using "forced_bos_token"
 
 ```
