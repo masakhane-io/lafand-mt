@@ -12,8 +12,6 @@ The sentencepiece.sh script is responsible for installing the sentencepiece pack
  - Change the variable values to suit your need
 To train a sentence piece of a particular vocabulary size for a language pair, you can use the following command, check the `train_sp.sh` and change the command line argument accordingly. 
 
-```bash train_sp.sh ```
-
 4. `bash apply_sp.sh`:
 encoding the training/dev/test sets using the already the trained model. 
 Change the variable values to suit your need. 
@@ -21,16 +19,11 @@ Change the variable values to suit your need.
 Check the `apply_sp.sh` file and make necessary changes to suit your need.
 
 ## To train the models. 
-1. Create a configuration file. It contains the model parameters to use for training.
-bash createconfig.sh 
+1. `bash createconfig.sh`: Create a configuration file. It contains the model parameters to use for training.
 
-2. Get the vocabulary needed by JoeyNMT
-bash buildvocab.sh
+2. `bash buildvocab.sh`: Get the vocabulary needed by JoeyNMT
 
-3. Run the train script
-bash train.sh 
-
-NOTE: 
+3. `bash train.sh`: Run the train script
 
 
 
