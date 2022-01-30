@@ -2,7 +2,7 @@
 
 ### Fine-tune mT5, M2M100, and byT5 using [HuggingFace Transformers](https://github.com/huggingface/transformers/tree/master/examples/pytorch/translation)
 
-Step 0: Preprocess your text to be in json lines (see preprocess_mt5.py), you will find an example for Yoruba-English from TSV to JSON
+Step 0: Preprocess your text to be in json lines
 
 Step 1: Install the necessary modules in requirments.txt
 
@@ -35,7 +35,7 @@ Testing the model:
 
 ```
 python run_translation.py \
-    --model_name_or_path byt5_en_yo/en_yo \
+    --model_name_or_path byt5_en_yo \
     --source_lang en \
     --target_lang yo \
     --source_prefix "translate English to Yoruba: " \
