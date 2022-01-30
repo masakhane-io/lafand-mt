@@ -1,4 +1,4 @@
-## LAFAND-MT: Lacuna Anglo &amp; Franco Africa News Dataset for low-resourced MT
+## LAFAND-MT: Leveraging Pre-trained models for African news translation
 
 ### Fine-tune mT5, M2M100, and byT5 using [HuggingFace Transformers](https://github.com/huggingface/transformers/tree/master/examples/pytorch/translation)
 
