@@ -15,10 +15,7 @@ def export_json_files(output_dir, filename, df, direction='en-sw'):
     src_lang, tgt_lang = direction.split('-')
     N_sent = df.shape[0]
     for s in range(N_sent):
-        if tgt_lang=='en':
-            text_string = {"translation": {src_lang: src_data[s], tgt_lang: tgt_data[s]}}
-        else:
-            text_string = {"translation": {src_lang:src_data[s], tgt_lang:tgt_data[s]}}
+        text_string = {"translation": {src_lang:src_data[s], tgt_lang:tgt_data[s]}}
         to_be_saved.append(text_string)
 
     with jsonlines.open(output_dir+filename, 'w') as writer:
