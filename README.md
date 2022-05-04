@@ -1,4 +1,5 @@
-## MAFAND-MT: A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation 
+## MAFAND-MT: 
+## A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation 
 
 ### Fine-tune mT5, M2M100, and byT5 using [HuggingFace Transformers](https://github.com/huggingface/transformers/tree/master/examples/pytorch/translation)
 
