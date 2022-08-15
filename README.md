@@ -4,7 +4,7 @@ This repository contains a newly created MT dataset in the news domain known as 
 
 The code is based on HuggingFace implementation (License: Apache 2.0).
 
-The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
+The license of the MT dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the monolingual data have difference licenses depending on the news website license. 
 
 ### Required dependencies
 * python
@@ -16,7 +16,9 @@ The license of the NER dataset is in [CC-BY-4.0-NC](https://creativecommons.org/
 pip install transformers accelerate datasets sentencepiece protobuf sacrebleu py7zr torch
 ```
 
-### The MAFAND dataset includes the following languages:
+### The MAFAND dataset
+
+The dataset includes the following languages:
 - Amharic (amh)
 - Ghomala (bbj)
 - Ewe (ewe)
@@ -36,6 +38,7 @@ pip install transformers accelerate datasets sentencepiece protobuf sacrebleu py
 - Xhosa (xho) --- only dev and test sets
 
 ### Existing corpus
+
 If you use existing corpus, please cite their papers
 - Igbo (ibo) --- We make use of [Igbo News MT corpus](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt), we defined new train/dev/test
 - Yoruba (yor) --- from the news domain part of [MENYO-20k](https://github.com/uds-lsv/menyo-20k_MT), we defined new modified train/dev/test split
