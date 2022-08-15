@@ -20,6 +20,7 @@ pip install transformers accelerate datasets sentencepiece protobuf sacrebleu py
 
 The dataset includes the following languages:
 - Amharic (amh)
+- Bambara (bam)
 - Ghomala (bbj)
 - Ewe (ewe)
 - Fon (fon)
