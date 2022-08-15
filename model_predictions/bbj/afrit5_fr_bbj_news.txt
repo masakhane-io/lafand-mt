@@ -1,0 +1,1430 @@
+KamərunWeb kə̂ bə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ áá
+CTEC SARL bə́ tsʉ' tsʉ' tsʉ' KamərunWeb lə.
+Mkətú' KaməlûnWeb bə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Ghə̌ŋlá' CTEC SARL ghɔm gaə́ tsʉ' ntʉ́m KaməlûnWeb.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Ŋwâlǎ' KaməlûnWeb bə́ ŋwâlǎ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ tsʉ' camerounwebcom.
+Pú kə̂ bə́ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ gɔ pə́ gɔ pə́ tsʉ' camərunwebcom gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ
+ǎ bə́ wə́ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' gɔ lə.
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ lə.
+Pú kə̂ bə́ gɔ tsʉ' gɔ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+ǎ bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ tsʉ' tsʉ' tsʉ' gɔ̂pna'.
+ǎ bə́ wə́ wə́ bə́ Chartbeat pə́ Alexa
+Pú kə̂ bə́ wə́ tsʉ' gɔ pə́:
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́.
+KamərunWeb bə́ wə́ yɔ́k pə́.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Pú kə̂ bə́ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ lə.
+Â bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́.
+Pú kə̂ bə́ gɔ pə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ tyə̂' 25 nə́ Dzʉ̂'bvʉ̀ 2021.
+Ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ'.
+Â bə́ nə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Pú kə̂ bə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'.
+Pú kə̂ bə́ wə́ tsʉ' gɔ pə́.
+Tsʉ' tsʉ' ntʉ́m Nkoteng ntʉ́m dyə̂fa' dyə̂fa' dyə̂fa' ntʉ́m dyə̂fa' ntʉ́m dyə̂fa' ntʉ́m dyə̂fa' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Francine Ngah lə̂ tyə̂' 19 nə́ ŋkə̂mbiyɛ́ tyə̂' 19 nə́ Camp Nanga lə.
+Pú kə̂ bə́ e kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ é lə.
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ Faustin Mvogo bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' lə.
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ yɔ́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ yɔ́ lə.
+Pú kə̂ bə́ wə́ shə́ŋ gaə́ pú a pə́ lə.
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tyə̂' 22h30
+Â bə́ Francine lə̂ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 9 nə́ tyə̂' áá
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú kə̂ tyə̂' tyə̂' tyə̂' tyə̂' 9h
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' fa' Faustin Mvogo lə.
+Pú kə̂ bə́ wə́ shə́ŋ gɔ pə́ gɔ pə́.
+Â bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ bə́ é lə.
+Â bə́ e kə̂ bə́ e kə̂ bə́ wə́ shə́ŋ shə́ŋ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́ shə́
+Pú kə̂ bə́ Nkoteng bə́ Mbandjock bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́.
+Ě bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́ pə́pʉə́ə́pʉə́ə́ə́ə́ə́.
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+KamərunWeb tyə̂' Armand Noutack II tyə̂' Armand Noutack II
+CRTV Alex Mimbang bə́ ŋwâlǎ' RDPC Nguelemendouka nə́ ŋwâlǎ' "talibanisation"?
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́
+Tchoutezo Hypolite lə̂ bə́ ŋkə̂ŋkhə̌ŋkhə̂ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ wə́ ŋwǎlá' ŋwǎlá' bə́ ŋwǎlá' ŋwǎlá' bə́ ŋwǎlá' ŋwǎlá' bə́ ŋwǎlá' ŋwǎlá' ŋwǎlá' lə?
+Mcùŋ Alex Mimbang bə́ ě kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm lə.
+Ŋwâlǎ' gaə́ ŋwâlǎ' gaə́ ŋwâlǎ' gaə́ ŋwâlǎ' yə ŋwâlǎ' lə.
+Tyə̂' 18 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 18 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ tsʉ' PCRN (bɔ́ɔ) pə́ gɔ pə́ lə.
+Pú kə̂ bə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m PCRN ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ pə́pʉə́ə́pʉə́ə́pʉə́ə́ə́ Kaməlûn lə.
+Mcùŋ Cabral Libii kə̂ tyə̂' 18 nə́ Dzʉ̂'bvʉ̀ 2021 bə́ wə́ tyə̂' 18 nə́ Dzʉ̂'bvʉ̀ 2021 lə.
+KamərunWeb gɔm gaə́ Cabral Libii bə́ pə́ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpʉə́ə́pʉə́ə́ə́
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wáp lə.
+Â bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ lə.
+ǎ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ŋwâlǎ' nə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́pʉə́ə́ə́ə́
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m pəpʉə́ə́ə́pʉə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́
+Â bə́ wə́ bə́ wə́ tsʉ' gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ wə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Dieudonné Essomba kə̂ bə́ wə́ bə́ wə́ gɔ̂pna' Kaməlûn lə.
+Â bə́ wə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ Kaməlûn bə́ wə́ bə́ wə́ wə́ tsʉ' tsʉ' tsʉ' gɔ̂pna' Kaməlûn
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gɔ pə́ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpú
+Ŋwâlǎʼ Kaməlûn: Ŋwâlǎʼ 4 nə́ ŋwâlǎʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gɔ pə́.
+Â bə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' bə́ tsʉ' bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m gɔ̂pna' gɔ pə́.
+Pú kə̂ bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə?
+Pú kə̂ bə́ wə́ tsʉ' gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' g
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ wə́ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kaməlûn gɔ̂pna' gɔ̂pna' Kaməlûn gɔ̂pna' Kaməlûn gɔpna' lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'!
+Mcuŋ Sɛ̂sǔ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Dôgùŋ MRC ghɔm gaə́ pú a mkətú' Amobe Mevegue tyə̂' 8 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ Kamto bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ Kamto bə́ tyə̂' 8 nə́ ŋkə̂mbiyɛ́ 2021, Kamto bə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Mkətú' Amobe Mevegue kə̂ bə́ ě ghɔm gaə́ pú a pə́ tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ ǎ bə́ gaə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+Ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+Â bə́ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Amobe Mevegue lə̂ bə́ tsʉ' Africa
+ě kə̂ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ é lə.
+ě kə̂ bə́ Africa Land lə̂ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ ě bə́ ě lə̂ bə́ ě lə̂ bə́ ě lə̂ bə́ ě lə̂ bə́ ě bə́ ě lə̂ bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě lə.
+Pú kə̂ bə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ nə́ ŋkhə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə
+Â bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Amobe Mevegue bə́ ě ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Afrika ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ wə́ tsʉ' bə́ Amobe Mevegue kə̂ bə́ wə́ bə́ ě kə̂ tsʉ' tsʉ' tsʉ' bə́ e kə̂ tsʉ' tsʉ' lə.
+Â bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú tyə̂' 21 nə́ Dzʉ̂'bvʉ̀ 2021
+Arol Ketch tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Louis Gabriel Djeudjang bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ KaməlûnWeb gɔ tyə̂' Arol Ketch
+Pú kə̂ bə́ wə́ gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gɔ lə.
+Tsʉ' gaə́ bə́ ǎ bə́ wə́ gaə́ pú a pə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ Paul Biya kə̂ ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm Kaməlûn lə.
+Paul Biya kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ tsʉ' Kaməlûn lə̂ bə́ wə́ bə́ wə́ tsʉ' Kaməlûn lə.
+Â bə́ LouisGabrielDjeudjang kə̂ bə́ pú a AlexisDipandaMouellé kə̂ bə́ é lə̂ bə́ é lə.
+Paul Biya kə̂ bə́ wə́ bə́ wə́ yɔ́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Pú kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ pú a kə̂ tyə̂' Ni John Fru Ndi Ndi lə.
+Mcùŋ MDjeudjang bə́ é bə́ ě bə́ ě ghɔm gaə́ ě ghɔm gaə́ AhmadouAhidjo bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ é lə.
+Djeudjang kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ ě bə́ ě lə.
+Â bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ tsʉ' tsʉ' Foumane Akame pú Clement Atangana bə́ wə́ bə́ wə́ bə́ ě bə́ ě bə́ ě lə.
+Â bə́ wə́ bə́ e kə̂ bə́ wə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ Kaməlûn lə.
+Pú kə̂ bə́ Kaməlûn ghɔm gaə́ pú a kə̂ bə́ ě ghɔm gaə́ pú a kə̂ bə́ é lə.
+Pú kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+Mkətú' tyə̂' 24 nə́ Dzʉ̂'bvʉ̀ 1964 lə̂ bə́ ŋkə̂ŋkʉ̂'bvʉ̀ 1964 lə̂ tyə̂' Dôgùŋ Yawùdè lə.
+Dyə̂fa' 1966 jɔ́ bə́ ŋwǎlá' Kaməlûn lə̂ bə́ ŋwǎlá' Kaməlûn bə́ ŋwǎlá' Kaməlûn lə.
+Â bə́ nə́ tyə̂' tyə̂' 1975 nə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Kaməlûn lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Louis Gabriel Djeudjang bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Tyə̂' 13 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021
+Cabral Libii kə̂ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ tsʉ' Mirabelle Lingom
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ Kaməlûn bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+ǎ bə́ wə́ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú Ruben Um Nyobe Felix Roland Moumié Martin Singap Abel Kingue Paul Momo Ernest Ouandié Niyim Kamdem Osende Afana Marcel Bebey Eyidices ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ bə́ wə́ tsʉ' nə́ tsʉ' nə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ ǎ bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+ǎ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+ǎ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ lə.
+Ě bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ áá
+Paul BIYA bə́ wə́ tsʉ' tsʉ' tsʉ' gɔ̂pna' Kaməlûn lə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ shə́ŋ tsʉ' gɔ pə́.
+Â bə́ wə́ bə́ wə́ tsʉ' Kaməlûn bə́ wə́ bə́ wə́ tsʉ' Kaməlûn
+Â bə́ wə́ tsʉ' gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Â bə́ Kaməlûn bə́ tsʉ' tsʉ' tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ lə.
+Â bə́ nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ'
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' Biya lə.
+Mkətú' Maurice Kamto bə́ wə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' lə.
+Mkətú' MRC bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə
+Tâdyə̂ Dôgùŋ Luc Sindjoun, Dôgùŋ PCA Kribi Jean Paul Simo, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ, Dôgùŋ Jean Paul Simo
+Â bə́ tsʉ' tsʉ' ntʉ́m tsʉ' gɔ̂pna' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Dyə̂fa' Anaclet Fomethe lə̂ Dschang bə́ e kə̂ bə́ e kə̂ bə́ wə́ bə́ e kə̂ tsʉ' yə e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ shə́ŋ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Maurice Kamto bə́ wə́ bə́ ǎ bə́ é lə.
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+ǎ bə́ Kaməlûn bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ sɔ́k lə.
+Pú kə̂ bə́ Péwé lə̂ bə́ pə́ tsʉ' Kaməlûn lə.
+Arol Ketch kə̂ bə́ pú a pəpʉə́ə́ péwe bə́ Arol Ketch
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Paul Biya kə̂ bə́ wə́ shə́ŋ tyə̂' tyə̂' Dôgùŋ Kaməlûn
+Pú bə́ wə́ bə́ Sphinx yɔ́ gaə́ tyə̂' 40 nə́ tyə̂' Sphinx lə.
+Ahidjo bə́ tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 1965 yə̌ŋ Clément Langué Tchobgnyə́
+Tsʉ' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Tchobgny lə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Jean Fochivé (SEDOC) bə́ e kə̂ tsʉ' tsʉ' lə.
+Ŋwâlǎ' 2 SEDOC bə́ ŋwâlǎ' Péwé
+SEDOC bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' yə̌ŋ Jeanine kə̂ tsʉ' tsʉ' tsʉ' gɔ̂pna' Kaməlûn lə.
+ě kə̂ bə́ wə́ bə́ wə́ yɔ́k pə́pʉə́ə́pʉə́ə́ə́ə́
+Â bə́ wə́ bə́ Jacques Foccart bə́ wə́ tsʉ' tsʉ' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' tsʉ' fà' fà' Frantsafà'.
+M Péwé pú Jeanine kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́
+Tá Péwé numéro 2 dyə̂ mkətú' Kaməlûn bə́ e kə̂ tyə̂' tyə̂' 1964
+Tsʉ' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Clément Langué Tchobgny tyə̂' dyə̂fa' Jeanine bə́ e kə̂ bə́ mkətú' mkətú' mkətú' Kaməlûn
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' gɔ pə́ ( Péwé)
+Pú bə́ M Péwé bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+M Péwé kə̂ bə́ wə́ tsʉ' tsʉ' Yawùdè lə.
+Pú kə̂ bə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ Tchobgny kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm áá
+Â bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ahidjo bə́ ě ghɔm gaə́ MPewé bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pû Pewé kə̂ ghɔm gaə́ pú a kə̂ ghɔm áá
+M Pewé lə̂ bə́ wə́ bə́ ě ghɔm gaə́ pú a kə̂ bə́ wə́ bə́ ě ghɔm áá
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Jeanine lə̂ bə́ gaə́ ě bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ahmadou Ahidjo lə̂ tyə̂' 6 nə́ Fʉ̂ʼbvʉ 1967 Clément Langué Tchopgni
+Paul Biya kə̂ bə́ tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' Dôgùŋ ( tsʉ' dyə̂ tsʉ' Dôgùŋ)
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Tsʉ' tsʉ' N'zui Manto bə́ e kə̂ tsʉ' Ntimbane Bomo bə e kə̂ tsʉ' Ntimbane Bomo
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ shə́ŋ gɔ̂pna' gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ KaməlûnWeb gɔ tsʉ' tsʉ' N'zui Manto bə́ e kə̂ tsʉ' Ntimbane Bomo bə́ e kə̂ tsʉ' Ntimbane Bomo lə.
+Â bə́ wə́ bə́ wə́ tsʉ' gaə́ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ yɔ́k pə́ pə́ tsʉ' Yawùdè gaə́: "Les Bamileke kə̂ bə́ wə́ tsʉ' Yawùdè lə!"
+Pú tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 2021
+Pəlagie Ndjike pú Maurice Kamto
+Mcùŋ Clotaire kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ wə́ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Mcùŋ Ndjike lə̂ bə́ e kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Mcùŋ Maurice Kamto bə́ ǎ bə́ ě ghɔm gaə́ Kaməlûn
+ǎ bə́ wə́ tsʉ' tsʉ' Clotaire Nguedjo pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+ǎ bə́ wə́ wə́ shə́ŋ gaə́ shə́ŋ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ shə́ŋ Kamto gɔ pə́ gɔ pə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ
+Tsʉ' gaə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m pcrn ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+ǎ bə́ Kaməlûn bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́ pə́pʉə́ə́pʉə́ə́ə́ə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+ǎ bə́ Kamto bə́ wə́ bə́ wə́ bə́ wə́ gaə́ gaə́ wə́ jɔ́ gaə́ Kamto lə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ lə.
+Pú bə́ Ressaisis tyə̂' Clotaire Cabraliste
+Pú bə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Pú kə̂ bə́ wə́ tsʉ' 20 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+Ě bə́ wə́ bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+MRC kə̂ bə́ ŋkə̂ shə́ŋ ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̂ SDF
+ě bə́ wə́ bə́ wə́ yɔ́ gaə́ wə́ yɔ́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+Pú bə́ Paa Kamto kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́
+Pú kə̂ bə́ gaə́ Kamto lə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ê bə́ gaə́ gaə́ gaə̂ bə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ tsʉ' gaə́ tsʉ' gaə́ tsʉ' gaə́ tsʉ' lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ Kaməlûn bə́ wə́ bə́ wə́ bə́ ǎ bə́ Kaməlûn lə.
+Tyə̂' 13 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ ntʉ́m tyə̂' 2016 tyə̂' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Ŋwâlǎʼ Kaməlûn Rigobert Song kə̂ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ á kə̂ bə́ wə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ t
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ê bə́ jɔ́ gaə́ gaə́ ě ghɔm gaə́ ě ghɔm gaə́ gaə́ ě ghɔm gaə́ áá
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ s
+Â bə́ wə́ bə́ wə́ tsʉ' gɔ̂pna' gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ jɔ́ gaə́ jɔ́ bə́ jɔ́ bə́ jɔ́ bə́ jɔ́ bə́ jɔ́ bə́ jɔ́ bə́ jɔ́ lə.
+ǎ bə́ wə́ bə́ wə́ jɔ́ gaə́ jɔ́ gaə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ lə.
+ǎ bə́ gaə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ
+Ě bə́ gaə́ tsʉ' gaə́ tsʉ' gaə́ ǎ bə́ wə́ tsʉ' gaə́ ǎ bə́ wə́ gɔ tsʉ' gaə́ ǎ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ tsʉ' gaə́ ǎ bə́ wə́ gɔ pə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' áá
+ǎ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ e kə̂ bə́ "Ləaxe lourd" Yawùdè-Douala bə́ " Ləaxe lourd" Yawùdè-Douala
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ lə.
+Hélas kə̂ bə́ wə́ tsʉ' Yawùdè
+Ě bə́ nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Pú bə́ wə́ shə́ŋ gaə́ pú a shə́ŋ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Dyə̂fa' Facebook "Afrique+" bə́ nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə
+Â bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tsʉ' bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́pʉə́ə́ə́ pə́pʉə́ə́ə́ pə́pʉə́ə́ə́pʉə́ə́ə́ pə́pʉə́ə́ə́pʉə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ áá
+YAOUNDE: DÔGÙŊ DÔGÙŊ DÔGÙŊ DÔGÙŊ DÔGÙŊ DÔGÙŊ
+Â bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Mcùŋ Matias bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ lə.
+Elodie kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Ě bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ e lə̂ bə́ ě lə̂ bə́ e lə.
+Pú kə̂ bə́ gaə́ pú a kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Yawùdè bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ lə.
+Matias kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě bə́ Wilfried lə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ é lə.
+Ě kə̂ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ shə́ŋ gaə́ e lə̂ bə́ wə́ bə́ e lə̂ bə́ ě bə́ wə́ bə́ e lə̂ bə́ é lə.
+Mcùŋ Matias bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wáp lə.
+Wə́ bə́ Wilfrid le bə́ Elodie lə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ e lə.
+Ě bə́ wə́ bə́ wə́ wə́ bə́ e kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ wə́ lə.
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Mcùŋ Matias kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pú kə̂ bə́ Wilfried lə̂ bə́ ě kə̂ tyə̂' 2008 yə Wilfried lə.
+Elodie lə̂ bə́ ě ghɔm gaə́ é bə́ ě ghɔm áá
+Â bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Ě kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Mkətú' Snack kə̂ tsʉ' bə́ Matias kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ě bə́ wə́ bə́ e kə̂ bə́ gaə́ gaə́ e kə̂ bə́ wə́ bə́ é lə.
+Â bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Mcùŋ Matias bə́ ě kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 2017 lə.
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Elodie kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Mkətú' Matias bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Elodie kə̂ tyə̂' 31 nə́ Dzʉ̂'bvʉ̀ 2020 bə́ e kə̂ tyə̂' 31 nə́ Dzʉ̂'bvʉ̀ 2020 lə.
+Mkətú' Matias lə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě bə́ ě lə.
+Elodie kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ é lə.
+Ě kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ é lə.
+Pú kə̂ bə́ e kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 2017 lə.
+Pú kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' 19 nə́ ŋkə̂ŋkə̂ŋkə̂ŋkə̂ŋkə̂ŋkə̂ŋkə̂ŋkə̂ lə.
+Pú kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Mkətú' Matias kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wáp lə.
+Mkətú' Matias kə̂ bə́ wə́ bə́ ě lə̂ bə́ elodie bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Pú kə̂ tyə̂' 6 nə́ tyə̂'bvʉ̀ nə́ tyə̂'bvʉ̀ nə́ tyə̂'bvʉ̀.
+Pú tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 2021
+E kə̂ Kaməlûn Elisee Yonta bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməlûn ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ tyə̂' 18 nə́ ŋkə̂mbiyɛ́ tyə̂' 18 nə́ ŋkə̂mbiyɛ́ Paris Valséro
+Tsʉ' Yonta lə̂ bə́ e kə̂ tsʉ' Maurice Kamto lə.
+Pú kə̂ bə́ wə́ shə́ŋ yɔ́k pə́.
+Â bə́ Richard Bona lə̂ Maurice Kamto bə́ ě ghɔm gaə́ pú a Maurice Kamto bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm lə.
+Pú kə̂ bə́ jɔ́ tsʉ' tsʉ' Manu Dibango lə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Mcùŋ Manu Dibango kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' gɔ̂pna' Kaməlûn bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Johnny Hallyday kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Mcùŋ Manu Dibango bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ gɔ pə́ tsʉ' Kaməlûn bə́ pú a pə́ tsʉ' ntʉ́m tsʉ' ntʉ́m tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ tsʉ' Manu Dibango pú Francis Bebey
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ tsʉ' Richard Bona və Valsero
+Ě bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' gɔ̂pna' lə.
+Mkətú' Maurice Kamto bə́ gaə́ ě lə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' Kaməlûn lə.
+Â bə́ wə́ shə́ŋ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Tsʉ' Tony Blair kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ shə́ŋ Kaməlûn bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gɔ̂pna' Kaməlûn lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ ǎ bə́ wə́ wə́ bə́ wə́ wə́ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ sɔ́k Kaməlûn
+Â bə́ Valsero ZENITH Paris bə́ ŋkə̂ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+Pú kə̂ bə́ "zéro Njapap" nə́ tsʉ'
+Pú tyə̂' 15 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ: Tchakounte Charlotte Charlotte
+Tchakounte bə́ e kə̂ bə́ e kə̂ bə́ é lə
+Mcùŋ Charlotte Tchakounte bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ pú a kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎʼ KaməlûnWeb bə́ ŋwâlǎʼ nə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ
+Pú kə̂ bə́ ě ghɔm gaə́ pú a kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' 6 pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ e kə̂ tsʉ' Brigitte bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Pə̂ bə́ Brigitte bə́ Jeannette bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ Brigitte kə̂ bə́ e kə̂ ghɔm gaə́ Jeannette pú a tsʉ' lə.
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Â bə́ wə́ tsʉ' Jeannette bə́ wə́ bə́ wə́ wə́ bə́ ě bə́ wə́ bə́ e kə̂ tsʉ' bə́ e kə̂ tsʉ' é lə.
+Pú kə̂ bə́ pú a kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ tsʉ' Brigitte bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ p
+Pú kə̂ bə́ Brigitte kə̂ bə́ ě ghɔm gaə́ ě bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Brigitte wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə
+Ě bə́ Ivana kə̂ bə́ e kə̂ bə́ ě ghɔm gaə́ ě tsʉ' 19 nə́ ŋkə̂ŋkə̂ bə́ e kə̂ tsʉ' é lə.
+Â bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Brazzaville
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' bə́ Brigitte tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú Ferdinand Ngoh Ngoh bə́ Ibrahim Talba Malla tsʉ' TCS
+Ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Paul Biya lə.
+Mkətú' Boris Bertolt kə̂ bə́ ě kə̂ bə́ Ibrahim Talba MALLA kə̂ bə́ ě kə̂ tsʉ' tsʉ' Etoudi Ngoh Ngoh bə́ ě kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' yə ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' Paul Biya bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' Paul Biya
+Ě bə́ tyə̂' 7 nə́ ŋkə̂mbiyɛ́ 2021 bə́ tyə̂' Dôgùŋ Paul Biya lə.
+ABBA SADOU bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́
+Pú kə̂ bə́ SGPR tyə̂' Talba MALLA lə.
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ ŋkáp gɔ̂pna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna'
+Ferdinand Ngoh Ngoh bə́ wə́ bə́ wə́ bə́ wə́ pə́
+Pú kə̂ bə́ pú a kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ABBA SADOU tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ CAN 2019
+Pú kə̂ bə́ ABBA bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ Ngoh Ngoh bə́ Paul Biya kə̂ bə́ wə́ bə́ wə́ tyə̂' tyə̂' tyə̂' CAN 2019
+Pú bə́ ABBA SADOU tyə̂' 4 nə́ Dzʉ̂'bvʉ̀ 2019 bə́ SGPR ghɔm gaə́ pú a pə́ lə.
+Ŋwâlǎʼnyə yə ǎ bə́ Ibrahim Talba MALLA
+Tsʉ' gaə́ pú a kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' yə ǎ bə́ Talba MALLA lə̂ bə́ lə.
+Ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ yə ǎ bə́ SONARA bə́ wə́ lə.
+Tâdyə̂ Ferdinand Ngongo kə̂ bə́ e kə̂ tsʉ' SONARA bə́ e kə̂ tsʉ' tsʉ' tsʉ' Kondengui
+Paul Biya kə̂ bə́ wə́ bə́ Ibrahim Talba MALLA bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ wə́ tsʉ' pú a kə̂ tsʉ' tsʉ' Talba MALLA tsʉ'
+Claude Simo Njonou kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́
+Tâdyə̂ Talba MALLA à la SONARA bə́ Paul Biya ghɔm gaə́ pú a ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ghə̌ŋlá' SGPR kə̂ tyə̂' tyə̂' TALBA MALLA ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' TALBA MALLA tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' TALBA MALLA tsʉ' T
+Pú tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ tyə̂' Sob Amyn Fouejeu kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' ntʉ́m gɔ̂pna' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+M Fouejeu kə̂ bə́ ě kə̂ tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 1961 lə.
+Pú tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ tyə̂'bvʉ̀ Kaməlûn tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 2018
+Â bə́ Kaməlûn bə́ tyə̂' 1 nə́ ŋkə̂mbiyɛ́ 1960 bə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə
+Pú kə̂ tyə̂' 4 nə́ Dzʉ̂'bvʉ̀ 1960
+Pú kə̂ tyə̂' Fə̀fə̀ 1961 nə́ ŋkáp Kaməlûn bə́ ŋkáp gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ Kaməlûn gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ
+Pú kə̂ bə́ Kaməlûn bə́ nə́ 233 571 bə́ 97 741 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̂
+Â bə́ tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 1960 nə́ 146 296 nə́ 97 659 nə́ tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 1960
+Ghə̌ŋlá' ONU tyə̂' 21 nə́ ŋkə̂mbiyɛ́ nə́ ŋkə̂mbiyɛ́ tyə̂' 21 nə́ ŋkə̂mbiyɛ́ tyə̂' 21 nə́ ŋkə̂mbiyɛ́ tyə̂' 21 nə́ ŋkə̂mbiyɛ́ tyə̂' 21 nə́ ŋkə̂mbiyɛ́
+Pú kə̂ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 1961 tyə̂' tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 1961 tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 1961
+Tsʉ' tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 1961 tyə̂' 30 nə́ Dzʉ̂'bvʉ̀ 1961, tyə̂' 30 nə́ Dzʉ̂'bvʉ̀ 1961, tyə̂' 30 nə́ Dzʉ̂'bvʉ̀ 1961 lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+ǎ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́.
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ: Henry-Paul Diabate Manden
+Ŋwâlǎʼ Kamərun bə́ ŋwâlǎʼ fàʼ fàʼ fàʼ
+Pú kə̂ bə́ wə́ bə́ Kaməlûn bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' Yawùdè bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ŋwâlǎ' nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ntʉ́m nə́ tsʉ' ntʉ́m gɔ̂pna'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Mkətú' Vincent Paul Ahanda
+Ahidjo bə́ ě kə̂ bə́ ě bə́ ě bə́ Charles Assalé lə̂ bə́ ě lə̂ bə́ ě lə̂ bə́ ě bə́ ě bə́ ě lə.
+Pú bə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ
+Pú kə̂ bə́ Vincent de Paul Ahanda bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ ŋwǎlá' Jean Pierre Benard bə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá' nə́ ŋwǎlá'
+Ahidjo pú Assalé kə̂ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Ntouesson
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Mvolyé bə́ ě kə̂ bə́ ě bə́ ě lə.
+Â bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Â bə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' PM Vincent de Paul Ahanda lə.
+Pú kə̂ tyə̂' tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 1965 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+Pú kə̂ PCA kə̂ bə́ ŋkáp Kamərun nə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Pú kə̂ bə́ wə́ bə́ ě kə̂ tyə̂' tyə̂' 1975 lə.
+Ŋwâlǎʼ CAF tyə̂ʼ Yawùdè tyə̂ʼ
+Olembe Can 2021 tyə̂' Olembe Can 2021 tyə̂'Motsepe-Biya
+Mcùŋ Narcisse MOUELLE KOMBI bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ p
+Ŋwâlǎ' tsʉ' SG CAF (tsʉ')
+Â bə́ tsʉ' tsʉ' tsʉ' fà' Kaməlûn
+Ŋwâlǎʼ Olembe bə́ ŋwâlǎʼ Kaməlûn MAGIL
+DÔGÙŊ: DÔGÙŊ: bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Patrice Motsepe?
+Ŋwâlǎʼ tsʉʼ CAF nə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ Olembe
+Dyə̂ tsʉ' stade Olembe: tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Kamərun - CAN féminine 2016: tyə̂' 3 milliards
+Ŋwâlǎʼnyə 21 ŋwâlǎʼnyə pú a pəpúŋ Paul Biya
+Samuel Eto'o lə̂ bə́ wə́ tsʉ' Kaməlûn nə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mcùŋ Kamto bə́ e kə̂ tyə̂' Lionnes tsʉ'
+Samuel Eto’o kə̂ tyə̂' dyə̂fa' Fəcafoot
+Ŋwâlǎʼ CAF nə́ ŋwâlǎʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ
+Pú kə̂ bə́ wə́ yə̌ŋ yə̌ŋ Motsepe ntʉ́m Ngute ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m ntʉ́m ntʉ́m Motsepe ntʉ́m Ngute
+Volley -les Lionnes tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Ŋwâlǎʼ CAN Paul Biya kə̂ ŋwâlǎʼ CAF
+Ŋwâlǎʼ gɔ̂pnaʼ CAF tyə̂ʼ Biya
+Jacques Songo’o pú Andres Lopez kə̂ bə́ wə́ tsʉ' tsʉ' 65 nə́ tsʉ'
+FECAFOOT: Jean Claude Mbede kə̂ tyə̂' Samuel Eto'o
+Pú kə̂ tsʉ' SamuelEto’o bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Samuel Eto’o bə́ ě kə̂ bə́ ě ghə FECAFOOT
+Ŋwâlǎʼ 31 Lions bə́ ŋwâlǎʼ gɔ̂pnaʼ Mozambique
+Pú kə̂ bə́ Kaməlûn bə́ Nigéria: bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'?
+Ŋwâlǎʼ Kaməlûn: bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+ǎ bə́ Chine tyə̂' tsʉ' Kaməlûn tyə̂' 2021
+Ŋwâlǎʼnyə: Minfi ŋwâlǎʼ Camtel
+Ŋwâlǎʼ Kaməlûn bə́ ŋwâlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼ
+Pú bə́ Kaməlûn bə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m France-Afríka
+Â bə́ Made In Cameroon bə́ wə́ tsʉ' tsʉ' tsʉ'
+Â bə́ ntʉ́m ntʉ́m Banque mondiale Kaməlûn (388 milliards CFA)
+Beac -le Kaməlûn bə́ tsʉ' 25 nə́ ŋkáp ŋkáp
+Cyrus Ngo' bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ wə́ gɔ pə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Dyə̂fa' Banque mondiale Kaməlûn ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməlûn
+Â bə́ ntʉ́m ntʉ́m ntʉ́m 114 pə́pʉə́ə́pʉə́ə́ə́
+Kamərun - Insolvabilité: bə́ ntʉ́m tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m Cicam
+ENAM bə́ wə́ shə́ŋ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp
+Ŋwâlǎʼ Modeste Mopa kə̂ bə́ nə́ ŋkáp ENAM
+Pú bə́ Kamərun Carrefour tyə̂' Yawùdè
+Ŋwâlǎʼ Kaməlûn: 772 bə́ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂
+Ghə̌ŋlá' DG və DGA: shə́ŋtə̀ Flambeau Ngayap bə́ wə́ shə́ŋ gɔ̂pna' gɔ̂pna'
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' 330 tsʉ'
+Pú bə́ wə́ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Ŋwâlǎʼ Kaməlûn: Sitrafer tsʉʼ Camrail
+Kaməlûn - Ŋwâlǎʼ nə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ
+Pú bə́ Rabingha de Douala bə́ Hilton bə́ wə́ tyə̂' tyə̂' Hilton
+Ntwɔ̂kshɛ: Nathalie Koah bə́ e kə̂ tsʉ' Kaməlûn bə́ e kə̂ tsʉ' Kaməlûn
+Brenda Biya kə̂ tyə̂' tyə̂' Valséro
+Â bə́ tyə̂' Richard Bona tyə̂' (tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂')
+Canal 2 bə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ Kaməlûn
+Ŋwâlǎʼ WhatsApp: bə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Mkətú' Kobo lə̂ Yawùdè bə́ ě kə̂ tyə̂' Yàwùdè bə́ ě bə́ Biya lə
+Ŋwâlǎʼ Vision 4 bə́ ŋwâlǎʼnyə́ ONG internationale ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Tsʉ' 10 nə́ tyə̂' Valsero zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə Paris
+Dyə̂ tsʉ' Vision4 tyə̂' Grand Barrack (tyə̂')
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' 11 millions
+Tsʉ' Zenith de Paris: Valséro gɔ tsʉ' 400 CFA
+Daʼgaə́ Dipanda lə̂ Valséro: bə́ wə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉ
+Â bə́ Kamto Eto’o kə̂ bə́ wə́ tyə̂' Valséro
+Célestin Djamen kə̂ tsʉ' tsʉ' Valsero bə́ e kə̂ tsʉ' zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə Zéntith
+Pú bə́ tsʉ' tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ Valséro kə̂ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ é lə.
+Ŋwâlǎʼnyə APN bə́ ŋwâlǎʼnyə nə́ ŋkhə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Gaə̂ Valsero bə́ Maurice Kamto lə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Ŋwâlǎ' Vision4 bə́ wə́ tyə̂' tyə̂' (tyə̂' tyə̂' tyə̂' (tyə̂' tyə̂')
+Pú kə̂ tyə̂' tyə̂' tyə̂' Nyangono ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Nyangono ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ Hamond Chic bə́ ‘coach caviar’ tyə̂' Kaməlûn
+Mcuŋ Kaməlûn bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kaməlûn
+Mcùŋ Mimie kə̂ bə́ ě bə́ ě bə́ ě bə́ ě lə̂ bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě bə́ ě lə.
+Mcùŋ Kaməlûn bə́ tsʉ' fà' fà' Fespaco
+Ghə̌ŋlá' Nigéria: tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+LaTonya kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pamela bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎʼ 2021 tyə̂ʼ ŋwâlǎʼ gɔ̂pnaʼ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ Adnan Abou Walid Al bə́ wə́ tsʉ' tsʉ' fà' Mali?
+Dyə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tsʉ' tsʉ': Tsʉ' tsʉ': tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú bə́ wə́ gɔ pə́ tsʉ' OMS nə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' OMS
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' yə ǎ bə́ ǎ bə́ ǎ lə.
+Ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ŋwâlǎʼ Guŋɛ Bissau bə́ ŋwâlǎʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Mcùŋ Mehdi Rajabian: bə́ yɔ́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú bə́ wə́ bə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́
+Â bə́ tsʉ' Time bə́ wə́ bə́ wə́ tsʉ' 7 Africa pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Abdelaziz Bouteflika: bə́ e kə̂ tyə̂' 84 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+Pú bə́ wə́ bə́ pə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ pə́ gɔ pə́ gɔ pə́ pə́pʉə́ə́pʉə́ə́ə́pʉə́ə́ə́
+Pú kə̂ bə́ wə́ bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' 1970
+Ayesha bə́ tsʉ' tsʉ' Afghan Star' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ ě ghɔm gaə́ pú a pə́ tsʉ' 5000000 FCFA áá
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Tamise
+Â bə́ Mali/ bə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ ŋwâlǎʼ ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ
+Â bə́ tsʉ' Alpha Condé kə̂ bə́ wə́ bə́ é lə.
+Mcùŋ 11 nə́ tyə̂' 11 nə́ ŋkə̂mbiyɛ́ tyə̂' Ben Laden
+Gaə̂ Casimir Oyé Mba lə̂ bə́ é bə́ tyə̂' Omar Bongo
+Pú kə̂ bə́ tyə̂' tyə̂' Abdelaziz Bouteflika kə̂ tsʉ'
+Â bə́ wə́ gɔ pə́ tsʉ' gùŋ gùŋ
+Â bə́ ŋkhə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ lə?
+Eric bə́ ě kə̂ bə́ wə́ bə́ ě ghɔm Mohamed lə?
+Â bə́ wə́ shə́ŋ ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ lə.
+Angela kə̂ bə́ bə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Paul Rusesabagina bə́ tyə̂' tyə̂' Hôtel Rwanda tsʉ' tsʉ'
+Â bə́ Afríka shə́ŋ bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Pú bə́ tsʉ' 8000 Boko Haram gɔ pə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Ghə̌ŋlá' CEDEAO ghɔm ntʉ́m Conakry (tyə̂' tyə̂')
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Kaməlûn (République du Cameroun) bə ě ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Â bə́ wə́ bə́ Kaməlûn bə́ pə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ Kaməlûn lə̂ bə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ Kaməlûn bə́ ǎ bə́ ǎ lə.
+Pú tyə̂' 1 nə́ Dzʉ̂'bvʉ̀ 1960 bə́ tyə̂' Dôgùŋ Kaməlûn lə.
+ǎ bə́ Kaməlûn bə́ pə́ tsʉ' tyə̂' 25 nə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Pú kə̂ bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ ŋkáp lə.
+Â bə́ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Pú tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú bə́ wə́ tsʉ' Amba Boys bə́ wə́ tsʉ' pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpʉə́ə́ə́pʉə́ə́ə́
+Mkətú' mkətú' mkətú' Kaməlûn bə́ gɔ pə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mcùŋ Simon Bertin Metsengue ghɔm gaə́ pú a ntʉ́m ONG ntʉ́m ntʉ́m ntʉ́m ONG ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ONG ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mkətú' ntʉ́m mkətú' mkətú' Nə́ŋlá' Nə́ŋlá' Nə́ŋlá' Nə́ŋlá' Nə́ŋlá' Nə́ŋlá' Noso lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́
+Tsʉ' ONG bə́ gɔ pə́ tsʉ' gùŋ Kaməlûn bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ tsʉ' tsʉ' gùŋ Kaməlûn
+Pú kə̂ bə́ wə́ tsʉ' gɔ pə́?
+Â bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m mkətú' mkətú' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎ' nə́ tsʉ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' lə.
+Pú kə̂ bə́ wə́ shə́ŋ gaə́ shə́ŋ gɔ̂pna' tsʉ' NOSO bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ tsʉ' gɔ tsʉ' lə.
+Pú bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Ambaboys tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ ŋkwítə́ ŋkwítə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ Mədecin Sans Frontières - MSF yə̌ŋ wə́ ŋwâlǎʼ áá
+Â bə́ wə́ bə́ wə́ tsʉ' gaə́ pú a shə́ŋ gɔ̂pna' Kaməlûn bə́ wə́ gɔ pə́ gɔ pə́ tsʉ' gɔ pə́ tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ ghɔm gaə́ Canadien tyə̂' Bamenda tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́?
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Ŋwâlǎʼ Kaməlûn ghɔm gaə́ pú a ghɔm gaə́ gɔ̂pnaʼ Kaməlûn ghɔm áá
+Ŋwâlǎʼ Kaməlûn ghɔm gaə́ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ tsʉʼ gɔ̂pnaʼ
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú tyə̂' 15 nə́ Dzʉ̂'bvʉ̀ 2021
+Christian Ntimbane Bomo ghɔm gaə́ Kamto Maurice ghɔm gaə́ tsʉ' tsʉ' Kamto Maurice
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ Kamto lə.
+Kamto Maurice ghɔm gaə̂ Kamto Maurice ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ yɔ́ gaə́ Sandjieu Sandjieu Boris lə̂ bə́ Kamto Maurice lə.
+ǎ bə́ Kamto Maurice bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə̂ Kamto Maurice lə.
+Darling Nguevo pú Kand owakslky bə́ wə́ bə́ wə́ yə̌ŋ gaə́ ě kə̂ bə́ wə́ bə́ wə́ lə̂ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+Pú kə̂ bə́ pú a kə̂ bə́ mamadou mota kə̂ bə́ é lə.
+Â bə́ wə́ gaə́ Maître Ntimbane kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́
+Dyə̂ Darling Nguevo bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ tsʉ' Sandjieu Sandjieu bə́ NzuiManto bə́ pú a NzuiManto lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gɔ̂pna'.
+ǎ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' áá
+Ě bə́ Kamto bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě bə́ ě lə.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kamto Maurice tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ Sandjieu Sandjieu Boris?
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+PaulBiya kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́ pə́pʉə́ə́
+Â bə́ wə́ wə́ bə́ wə́ tsʉ' Kaməlûn lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Christian Ntimbane Bomo Tâdyə̂ shə́ŋ nə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú tyə̂' 19 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ tsʉ' bə́ e kə̂ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ě bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wáp
+Alice Nkom bə́ wə́ bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Ghə̌ŋlá' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wáp lə.
+FAME NDONGO - " bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ gɔ̂pnaʼ ŋwâlǎʼ ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ Ŋwâlǎʼ
+Pú bə́ Dieu tsʉ' Sodome et Gomhorre
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ pəpʉə́ə́ə́?
+Mcuŋ Sɛ̂sǔ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ Bruno Bidjang wə́ tsʉ' Valséro
+Joseph Odouguena kə̂ bə́ tsʉ' Vision4 kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ tsʉ' Valséro bə́ e kə̂ bə́ wə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Mkətú' KaməlûnWeb gɔ tyə̂' Joseph Odouguena
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' 4 tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ tsʉ' tsʉ' gɔ̂pna'!
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ Bruno Bidjang (kə̂ jɔ́k lə) bə́ Raoul Christophe Mbia tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Anecdote (satellite fm)
+Tsʉ' gɔ pə́ gɔ pə́ tsʉ' gɔ pə́.
+ǎ bə́ wə́ tsʉ' gaə́ tsʉ' gaə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'!
+Raoul Christophe MBia bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ Kaməlûn bə́ wə́ tsʉ'
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' Valsero bə́ wə́ bə́ ě ghɔm gaə́: " Ntə́m gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ g
+Mcuŋ Sɛ̂sǔ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Arol Ketch bə́ wə́ bə́ pə́ Raoul Christophe Bia
+Gaə̂ Raoul Christophe Bia tyə̂' Vision 4 kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ p
+Pú kə̂ bə́ " tsʉ' tsʉ' " Remy Ngono" lə̂ bə́ " tsʉ' nə́ " tsʉ' " tsʉ' " Remy Ngono" lə.
+Pú kə̂ bə́ wə́ tyə̂' Raoul Begono kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ é lə.
+Arol Ketch kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Jean Jacques Zé kə̂ bə́ ě kə̂ bə́ wə́ wə́ bə́ ě kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ ě kə̂ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ ě bə́ e kə̂ bə́ ě lə.
+Pú kə̂ bə́ Ernet Obama kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ shə́ŋ gaə́ wə́ shə́ŋ ŋkáp ŋkáp ŋkáp ŋkáp ŋkáp lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' Zomloa bə́ ě kə̂ tsʉ' bə́ ě kə̂ tsʉ' bə́ ě kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tâdyə̂ kó koki bobolo bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ ŋkáp lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə
+Tyə̂' 13 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021
+Louis Paul Motaze kə̂ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ é lə.
+Ŋwâlǎ' David Eboutou bə́ ŋwâlǎ' nə́ ŋwâlǎ' ŋwâlǎ' Louis Paul Motaze nə́ ŋwâlǎ' lə.
+ǎ bə́ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ Kaməlûn bə́ wə́ tsʉ' tsʉ' áá
+Pú kə̂ bə́ tyə̂' tyə̂' tyə̂' CRTV Gervais Mendo Ze bə́ é lə.
+Mkətú' Zona Coker kə̂ bə́ wə́ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ Zona CokerLe Nkul ntʉ́m tyə̂' Gervais Mendo Ze bə́ e kə̂ bə́ é lə.
+Pú bə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ Kaməlûn
+Louis Paul Motaze bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě Sangmelima lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ wə́ tyə̂' Genève yə pú a pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Rémy Ngono Motaze ghɔm gaə̂ Rémy Ngono Motaze ghɔm gaə́ pú a pə́
+Pú kə̂ bə́ wə́ bə́ yɔ́ gaə́ yɔ́ gaə́ yɔ́ gaə́ ǎ bə́ wə́ tsʉ' tsʉ' Kaməlûn lə.
+Nnam Kamerun bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ é lə.
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Mkətú' Motaze kə̂ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́
+Mkətú' bí Biya Bi Mvondo yə̌ŋ Stephane Nga bə́ ě kə̂ bə́ wə́ bə́ ě ghɔm gaə́ ě bə́ wə́ bə́ wə́ bə́ é lə.
+Ě bə́ Samuel Mvondo Ayolo kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ é lə.
+Louis Paul Motaze kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ é lə.
+Pú kə̂ bə́ tsʉ' 15 nə́ tsʉ' NO -SO bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' NO -SO
+Â bə́ tyə̂' 17 nə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ tsʉ' Paul Biya bə́ wə́ tsʉ' Paul Biya
+Mkətú' mkətú' mkətú' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməlûn ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Ŋwâlǎʼ KaməlûnWeb bə́ ŋwâlǎʼ Dieudonné Essomba
+Mkətú' Kaməlûn bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm lə.
+Pú kə̂ bə́ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ gɔ g
+Tsʉ' gaə́ ě kə̂ bə́ gaə́ ě bə́ ě lə̂ bə́ ě bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' Kaməlûn bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' gɔ
+Mkətú' mkətú' mkətú' mkətú' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'!
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ áá
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ pə́ lə.
+Pú kə̂ bə́ gaə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' g
+Dyə̂fa' Diafoirus bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ě bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gaə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pə̂ bə́ Kaməlûn bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Mkətú' mkətú' mkətú' mkətú' mkətú' mkətú' lə.
+Â bə́ wə́ bə́ Amba Boys " enfants du pays" bə́ ŋkhə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gaə́ wə́ gɔ tsʉ' tsʉ' gɔ tsʉ' gɔ pə́ gɔ tsʉ' gɔ tsʉ' tsʉ' gɔ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ gɔ̂pna' Anglophones
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+ǎ bə́ wə́ bə́ wə́ shə́ŋ gɔ̂pna' gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ tsʉ' áá
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ ŋkáp lə.
+Â bə́ Amba Boys bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Gɔm guŋ Kaməlûn bə́ wə́ bə́ wə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ g
+Pú kə̂ gɔ pə́ tsʉ' Biya gɔ pə́?
+Â bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ
+Gɔm gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́?
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' gɔ̂pna'!
+Pú kə̂ ghɔm gaə́ tsʉ' tsʉ' tsʉ' tsʉ' AMBA BOYS bə́ wə́ bə́ wə́ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp lə.
+Mcuŋ Sɛ̂sǔ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ gaə̂ Gaston Abe alias Valsero?
+Ŋwâlǎ' Vision 4 ŋwâlǎ' Jean-Pierre Amougou Belinga bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ tyə̂' tyə̂' Kaməlûn tyə̂' Valsero lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Paris.
+Zona Coker kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tsʉ' Valsero lə̂ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə?
+Mkətú' Kaməlûn bə́ wə́ tsʉ' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'?
+Pú kə̂ bə́ gaə̂ Gaston Abe alias Valsero?
+Â bə́ Christophe Raoul Bia Nnama bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kondengui tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Beti lə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+Pú bə́ gaə́ tsʉ' gaə́ Kalara club nə̂ bə́ ě bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+Mkətú' Amougou Belinga kə̂ bə́ wə́ wə́ bə́ wə́ ŋkə̂ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Â bə́ e kə̂ bə́ Amobe Mevegue kə̂ bə́ wə́ bə́ e kə̂ tyə̂' France 24 lə.
+Pú tyə̂' 15 nə́ Dzʉ̂'bvʉ̀ 2021
+Paul Biya kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' bə́ tsʉ' tsʉ' tsʉ' Kaməlûn bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Cyrus Ngo’o bə́ e kə̂ tsʉ' PAD gaə́ pú a kə̂ tsʉ' lə.
+Koung A Bisseke kə̂ tyə̂' bí Henry Eyebe Ayissi tyə̂' 19 nə́ ŋkə̂mbiyɛ́ 2019
+Pú kə̂ bə́ ě ghɔm gaə́ ě bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pú kə̂ tyə̂' 3 nə́ Dzʉ̂'bvʉ̀ 2020 yə ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋk
+Paul Biya kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Pú kə̂ bə́ " sicilien du PAD" bə́ wə́ tsʉ' lə.
+ǎ bə́ gaə́ gaə́ ghɔm gaə́ gaə́ ghɔm gaə́ gaə́ ghɔm gaə́ gaə́ ghɔm gaə́ ghɔm gaə́ 12 pə́mnə́ M2 Douala á 1000 FCFA
+Dôgùŋ Dion Ngute, Dôgùŋ, Dôgùŋ Ousmane Mey (tyə̂'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'), Dôgùŋ Ousmane Mey (tyə̂'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ', Dôgùŋ), Dôgùŋ Ousmane Mey (tyə̂'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ'lǎ
+Pú kə̂ ghɔm gaə́ gɔ pə́ tsʉ' PAD bə́ wáp ghɔm gaə́ gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́ tsʉ' lə.
+Cyrus Ngo’o kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+ǎ bə́ yə̌ŋ gaə́ yə̌ŋ yə̌ŋ yə̌ŋ gaə́ yə̌ŋ yə̌ŋ yə̌ŋ gaə́ yə̌ŋ gaə́ yə̌ŋ ŋwǎlá' gɔ̂pna' PAD bə́ wə́ ŋwǎlá' lə.
+Dion Ngute kə̂ bə́ ě bə́ Cyrus Ngo’o lə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ lə
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Tâdyə̂ Dôgùŋ Ferdinand Ngoh Ngoh allias " tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ tsʉ' PORTSEC tsʉ' 50 milliards FCFA
+Â bə́ wə́ tyə̂' 7 nə́ Dzʉ̂'bvʉ̀ 2021 bə́ ŋwǎlá' Atou bə́ nə́ ŋwǎlá' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Atou bə́ tyə̂' 17 nə́ ŋkə̂mbiyɛ́ 2021 bə́ Ferdinand Ngoh Ngoh tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú bə́ wə́ bə́ ŋkə̂ 285 Ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Pú kə̂ ghɔm gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ PAD
+Cyrus Ngo'o kə̂ bə́ wə́ tsʉ' PUNK
+Dyə̂ŋwâlǎʼ Louis Paul Motaze bə́ tyə̂ʼ 17 nə́ Dzʉ̂ʼbvʉ̀ 2021
+Tsʉ' SGPR gaə̂ Henry Eyebe Ayissi bə́ e kə̂ ghɔm gaə́ SGPR ghɔm gaə́ Henry Eyebe Ayissi bə́ e kə̂ ghɔm gaə́ Henry Eyebe Ayissi
+Paul Biya kə̂ tyə̂' 02 nə́ Dzʉ̂'bvʉ̀ 2021 yə̌ŋ gaə́ tyə̂' Atou lə.
+Pú kə̂ bə́ tsʉ' Ngo'o Ngo'o
+Louis Paul Motaze tyə̂' 2 nə́ Dzʉ̂'bvʉ̀ 2021 nə́ SGPR tyə̂' 2 nə́ Dzʉ̂'bvʉ̀ 2021
+Ŋwâlǎʼ bə́ ŋwâlǎʼ ŋwâlǎʼ
+Pú kə̂ bə́ wə́ bə́ mfaʼ mfaʼ mfaʼ mfaʼ mfaʼ mfaʼ mfaʼ
+Louis Paul Motaze kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə
+Ferdinand Ngoh Ngoh bə́ tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021 nə́ ŋkə̂ŋkʉ̂'bvʉ̀ 2021
+ǎ bə́ nə́ ŋkə̂ bə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Â bə́ wə́ bə́ wə́ bə́ pə́ tsʉ' 285 tsʉ' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà'
+Pú kə̂ tyə̂' 02 nə́ Dzʉ̂'bvʉ̀ 2021 yə̌ŋ Ferdinand Ngoh Ngoh bə́ e kə̂ tyə̂' 02 nə́ Dzʉ̂'bvʉ̀ 2021 lə.
+Pú kə̂ tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021 nə́ tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ bə́ wə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Atou kə̂ tyə̂' 5 nə́ Dzʉ̂'bvʉ̀ 2021, tyə̂' Ferdinand Ngoh Ngoh tyə̂' Dôgùŋ, Cyrus Ngo'o tyə̂' Dôgùŋ PAD
+Laurent Esso bə́ ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə ŋwaʼnyə
+Â bə́ nə́ tyə̂' tyə̂' ntʉ́m nə́ tyə̂' ntʉ́m nə́ tyə̂'
+Pú tyə̂' 21 nə́ Dzʉ̂'bvʉ̀ 2021
+ǎ bə́ wə́ bə́ wə́ tsʉ' gɔ̂pna' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ tsʉ' gɔ pə́
+Dôgùŋ Didier Badjeck ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməlûn ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mkətú' mkətú' mkətú' Kaməlûn
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Pú kə̂ bə́ wə́ shə́ŋ nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' lə.
+Ŋwâlǎʼ Kaməlûnweb tyə̂ʼ ŋwâlǎʼ Didier Badjeck ntʉ́m Anecdote
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Pú tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021
+Mkətú' gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ bó-Ondimba bə́ wə́ tsʉ' tsʉ' gɔ̂pna' Bongo-Ondimba
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Ali Bongo tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ gɔ pə́ tyə̂' Facebook "Le Gabon Dôgùŋ"
+Â bə́ wə́ bə́ wə́ shə́ŋ gɔ̂pna' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Â bə́ tyə̂' 28 nə́ Dzʉ̂'bvʉ̀ 2018 Ali Bongo Ondimba bə́ tyə̂' 28 nə́ Dzʉ̂'bvʉ̀ 2018
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' yə ǎ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Bongo tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ tsʉ' Ali Bongo-Ondimba bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Tsʉ' Sylvia Valentin nə̂ ghɔm gaə́ nə̂ ghɔm gaə́ Nourredine Bongo Valentin nə̂ ghɔm gaə́ pú a kə̂ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ
+Tsʉ' gaə́ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ Marie Madeleine Mborantsuo bə́ ǎ bə́ ǎ bə́ ǎ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú kə̂ bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 2023
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' fidèle Andjoua Ondimba
+ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+Denis Sassou Nguesso bə́ ě ghɔm gaə́ wə́ bə́ ě ghɔm gaə́ pú a kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+NOURREDINE BONGO VALENTIN DÔGÙŊ DÔGÙŊ DÔGÙŊ
+Pú kə̂ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ bə́ Nourredine Bongo Valentin bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ lə.
+Â bə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́
+Mkətú' gaə́ gɔm gaə́ gɔm gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́ gaə́
+Pú tyə̂' 21 nə́ Dzʉ̂'bvʉ̀ 2021
+Binyam Pierre Emmanuel bə́ wə́ tyə̂' Binyam Pierre Emmanuel
+Dôguŋ Fridolin Nke bə́ e kə̂ tsʉ' MRC Binyam Pierre Emmanuel lə̂ bə́ e kə̂ tsʉ' tsʉ' MRC Binyam Pierre Emmanuel lə.
+Mkətú' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' Kaməlûn lə.
+Ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ áá
+Â bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ ambazoniŋ nə́ tsʉ' Valsero
+Pú kə̂ tyə̂' Valséro Zenith Paris gɔ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Â bə́ wə́ bə́ Ambazoni bə́ wə́ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Á bə́ Auréole Tchoumi kə̂ bə́ wə́ bə́ wə́ bə́ wə́ sɔ́k pə́
+Tsʉ' Auréole Tchoumi lə̂ bə́ ǎ bə́ wə́ tyə̂' Auréole Tchoumi ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ tyə̂' tyə̂' Paris?
+Â bə́ nə́ tsʉ' "Un concert artistique" nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ Ambazonie lə?
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+ǎ bə́ wə́ wə́ bə́ wə́ shə́ŋ gaə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́
+Pú kə̂ bə́ tsʉ' tsʉ' Kaməlûn?
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' Ambazonie lə?
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+ǎ bə́ Ambazonie bə́ pə́ bə́ Kaməlûn bə́ wə́ bə́ Kaməlûn
+Tsʉ' gaə́ gɔ tsʉ' Kaməlûn bə́ wə́ bə́ wə́ gɔ tsʉ' gɔ tsʉ' lə.
+Pú bə́ ntʉ́m USA ghɔm gaə́ Mississippi ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m pə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú tyə̂' 15 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ wə́ tsʉ' Valsero bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ gɔ tsʉ' zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́ zhí'tə́?
+ǎ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ wə́ bə́ ǎ bə́ é lə.
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+Â bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə?
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ lə?
+Â bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp lə?
+Pú kə̂ bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kaməlûn
+Â bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Kamto lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ Kaməlûn?
+Beas Salomon bə́ wə́ wə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́?
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ yɔ́ gaə́ Olivier kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ ě gɔ lə.
+ǎ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ Ferdinand Ngoh Ngoh bə́ ě kə̂ ntʉ́m OPA ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ ŋwǎlá' Louis Paul Motaze bə́ wə́ bə́ wə́ ŋwǎlá' lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Paul Biya Ferdinand Ngoh Ngoh bə́ ě kə̂ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Pú bə́ mkətú' mkətú' gɔ pə́ gɔ pə́.
+Ŋwâlǎʼ Dion Ngute bə́ ŋwâlǎʼ
+Â bə́ Yaouba Abdoulaye kə̂ ghɔm gaə́ pú a mkətú' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ Louis Paul Motaze kə̂ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ é lə.
+Mcùŋ Louis Paul Motaze pú a Paul Biya kə̂ bə́ tsʉ' tsʉ' Ferdinand Ngoh Ngoh lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Modeste Mopa bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ Pierre Castel bə́ wə́ bə́ e kə̂ bə́ " son ami" Paul Biya lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' yə e kə̂ tsʉ' Modeste Mopa yə e kə̂ tsʉ' yə e lə.
+Ferdinand Ngoh Ngoh bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ ŋwǎlá' Dion Ngute bə́ wə́ ŋwǎlá' lə.
+Dion Ngute kə̂ ghɔm gaə́ pú a Paul Biya kə̂ ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ferdinand Ngoh Ngoh kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ pú a kə̂ ghɔm ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ Dion Ngute kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú tyə̂' 16 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ ntʉ́m SONARA ntʉ́m SCDP ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m SONARA
+Mkətú' mkətú' mkətú' mkətú' mkətú' Kaməlûn Lazare Atou bə́ ě kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Mcùŋ Ferdinand Ngoh Ngoh pú Curys Ngo'o lə̂ bə́ e kə̂ bə́ é lə
+ǎ bə́ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ "HP" yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌
+Pú kə̂ tyə̂' 5 nə́ Dzʉ̂'bvʉ̀ 2021 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋk
+Â bə́ wə́ tyə̂' Eran Moas Kaməlûn bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Eran Moas Kaməlûn
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' PORTSEC
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' 50 milliards FCFA nə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ě bə́ tyə̂' SONARA, SCDP, PORTSEC bə́ Ferdinand Ngoh Ngoh gɔ tsʉ' tyə̂' tyə̂' Ferdinand Ngoh Ngoh gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Olembe lə.
+Pú tyə̂' 19 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ tyə̂' tyə̂' tyə̂' zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə̀ Zénith
+Pú kə̂ bə́ Kaməlûn bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' Valsero zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́
+Â bə́ tsʉ' 2600 pə́ bə́ 350 pə́
+Â bə́ wə́ bə́ wə́ shə́ŋ gɔ̂pna' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ zhí'tə zhí'tə zhí'tə zhí'tə ntʉ́m zhí'tə ntʉ́m zhí'tə ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m zhí
+Zenith bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' 6228 tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ wə́ shə́ŋ nə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ tyə̂' 4800 pə́.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kamto Maurice tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kamto
+Ŋwâlǎʼ gɔ̂pnaʼ gɔpnaʼ gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ ntʉ́m gɔpnaʼ gɔpnaʼ
+Â bə́ yə̌ŋ Kaməlûn bə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə
+Zenith bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ é lə.
+Pú bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Bercy Arena tsʉ' 40000 tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ Fally Ipupa bə́ Koffi Olomide bə́ wə́ tyə̂' Arena Defense tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+Zenith bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021 bə́ Werrason tyə̂' tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021 bə́ e kə̂ tyə̂'dzʉ̂'bvʉ̀ 2021 lə.
+Pú kə̂ bə́ Kaməlûn kə̂ bə́ Kaməlûn bə́ zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə zhí'tə̀ Zénith lə.
+Christian Ntimbane Bomo Tâdyə̂ Ŋwâlǎʼlǎʼlǎʼ
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ bə́ pú a tsʉ' 12 pə́ 34 pə́
+Pú kə̂ bə́ wə́ tsʉ' Kamərun lə.
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' gɔ̂pna' Douala
+Pú kə̂ bə́ tsʉ' tsʉ' Boris Bertolt tsʉ' 12 pəpúŋ 34a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ pú a pəpúŋ
+Cyrus Ngo'o bə pú a kə̂ tsʉ' dyə̂ tsʉ' dyə̂ gɔ̂pna' Koung A Bisseke lə.
+Pú kə̂ bə́ Boris Bertolt kə̂ bə́ wə́ bə́ wə́ tyə̂' tyə̂' " sicilien du PAD" nə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Cyrus Ngo'a lə̂ " sicilien du PAD" tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+Cyrus Ngo'o bə́ ě kə̂ bə́ wə́ tsʉ' tsʉ' dyə̂ tsʉ' dyə̂ tsʉ' dyə̂ Port Autonome Douala (PAD)
+Â bə́ wə́ tyə̂' 18 nə́ Fcfa
+Â bə́ tyə̂' Office Nationale des Ports du Kaməlûn (ONPC) bə́ tsʉ' 14 pə́.
+TRIBUNAL CRIMINEL SPÉCIAL Ŋwâlǎ' Koung A Bisseke pú Cabinet Atou
+Atou kə̂ tyə̂' 17 nə́ ŋkə̂mbiyɛ́ 2013 nə́ ŋkə̂mbiyɛ́ 2013 nə́ tyə̂' 17 nə́ ŋkə̂mbiyɛ́ 2013 nə́ tyə̂' 17 nə́ ŋkə̂mbiyɛ́ 2013 nə́ tyə̂' 17 nə́ ŋkə̂mbiyɛ́ 2013 nə́ ŋkə̂mbiyɛ́ 2013
+Tâdyə̂ ŋwǎlá' Bonanjo bə́ ŋwǎlá' ntʉ́m ŋwǎlá' ntʉ́m ŋwǎlá' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ tyə̂' tyə̂' 2014 tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Tsʉ' (TCS)
+Koung A Bisseke bə́ wə́ yɔ́
+Paul Biya bə́ Cyrus Ngo’o bə́ PAD nə́ tyə̂' 24 nə́ Dzʉ̂'bvʉ̀ 2016
+Ě bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Mcùŋ Beedi kə̂ bə́ wə́ tyə̂' 12 pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Paul Biya kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ ghɔm gaə́ tsʉ' tsʉ' tsʉ' tsʉ' Douala 1000 Fcfa m2 nə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə́ mnə
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Cyrus Ngo'o kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' 1000 m2 bə́ e kə̂ tsʉ' lə.
+KOUNG A BISSEKE DÉCƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́
+Koung A Bisseke kə̂ tyə̂' 4 nə́ Dzʉ̂'bvʉ̀ 2019
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' TCS
+Â bə́ wə́ bə́ wə́ tyə̂' 18 fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà' fà'.
+Cyrus Ngo'o bə́ wə́ gɔ pə́
+Eyebe Ayissi lə̂ bə́ tyə̂' Koung A Bisseke kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' TCS lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Bepanda tsʉ' 1000 Fcfa m2
+Mcuŋ tyə̂' 14 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ wə́ bə́ wə́ wə́ bə́ Biya bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Paul Biya kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 90
+Pú kə̂ bə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Mkətú' Pro Biya Chance Lion bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ shə́ŋ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Paul Biya Chance Lion kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ pú a pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ pəpúŋ
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Batchenga -Ntui -Yoko -Lena-Tibati bə́ wə́ ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə
+ǎ bə́ wə́ gɔ pə́ tyə̂' 26 nə́ ŋkə̂ŋkə̂ŋkə̂ŋkhə̂ŋkhə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́
+Pú kə̂ bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 2008 lə.
+Pú kə̂ bə́ gɔ tsʉ' gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gɔ tsʉ' gaə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ lə.
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ Kaməlûn lə.
+Mcuŋ Sɛ̂sǔ tyə̂' 17 nə́ Dzʉ̂'bvʉ̀ 2021
+Nwɔno Nguini bə́ wə́ gɔ pə́
+Mkətú' Kaməlûn bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́
+Â bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+ǎ bə́ wə́ bə́ Kaməlûn lə̂ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə
+Gɔm gaə́ yɔ́ gaə́ tsʉ' gɔ tsʉ' tsʉ' gɔ pə́ gɔ pə́ gɔ pə́ gɔ tsʉ' Kaməlûn lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ě bə́ jɔ́ gaə́ gɔ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' bə́ Kaməlûn gaə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə
+ǎ bə́ gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔm gaə́ gɔ pə́ gɔ
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' áá
+Â bə́ wə́ bə́ Anglophones bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' Amba Boys 2 nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Ŋwâlǎʼ gɔ̂pnaʼ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ ŋwâlǎʼ Ambazoni
+Dôgùŋ ghɔm gaə́ tsʉ' tsʉ' tsʉ' tsʉ' gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ gùŋ
+Tâdyə̂ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ lə.
+Tsʉ' gaə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ tsʉ' Kaməlûn bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ g
+Pú kə̂ bə́ gaə́ Fédéralisme gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Tsʉ' gaə̂ Fédéralisme lə̂ bə́ ŋkáp nə́ ŋkáp nə́ ŋkáp lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ŋwâlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼlǎʼ IRONSI bə́ ŋwâlǎʼlǎʼ
+Ethiopia kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ yɔ́ gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́?
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́?
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́?
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ Amba Boys bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+ǎ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ ENAM bə́ wáp lə.
+Â bə́ ǎ bə́ ǎ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ lə?
+ǎ bə́ Kaməlûn bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'!
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Mghɔm gaə́ OWONA NGUINI pú a BOKAGNE bə́ ghɔm gaə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ áá
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ lə.
+Pú tyə̂' 22 nə́ Dzʉ̂'bvʉ̀ 2021
+Bibou Nissack tyə̂' Alain Fogue
+Mcùŋ Mamadou Mota bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ ŋkáp Biya
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Ě bə́ wə́ bə́ wə́ bə́ wə́ yɔ́k áá
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' áá
+Tyə̂' 13 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ nə́ tsʉ' tsʉ' ABK Radio bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ é lə.
+Â bə́ e kə̂ tyə̂' 43 nə́ tyə̂' bə́ e kə̂ tyə̂' lə.
+ABK gɔ pə́ Philemon
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' 43 bə́ wə́ bə́ wə́ tsʉ' bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ gaə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə?
+A kə̂ bə́ Anaïs bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ABK tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+ǎ bə́ wə́ wə́ bə́ wə́ gaə́ ě bə́ wə́ gaə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ wə́ gaə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+ǎ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Pú kə̂ bə́ wə́ bə́ gaə́ tsʉ' tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ gaə́ ě bə́ e kə̂ bə́ e kə̂ tsʉ' yə e kə̂ tsʉ' yə e kə̂ tsʉ' yə e lə.
+ǎ bə́ wə́ yə̌ŋ jɔ́ gaə́ e kə̂ tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ jɔ́ gaə́ wə́ bə́ e kə̂ tsʉ' áá
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+ǎ bə́ yə̌ŋ Anaïs bə́ ě bə́ ě bə́ ě bə́ ě lə?
+ǎ bə́ wə́ bə́ e kə̂ bə́ wə́ gaə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ
+Ě bə́ gaə́ ě bə́ gaə́ ě ghɔm gaə́ gaə́ ě ghɔm gaə́ gaə́ ě ghɔm gaə́ gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ é lə.
+Pú kə̂ bə́ Anaïs bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ gaə́ ǎ bə́ gaə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ gɔ tsʉ' gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' gɔ tsʉ' lə.
+Â bə́ wə́ wə́ bə́ wə́ gɔ tsʉ' gɔ tsʉ' gɔ gɔ tsʉ' gɔ tsʉ' tsʉ' gɔ tsʉ' gɔ lə.
+Pú kə̂ bə́ Sɔ̂ghɔm gaə́ ě bə́ ě lə.
+ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú tyə̂' 20 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ bə́ wə́ gɔ tsʉ' tsʉ' " ambazoniens" bə́ wə́ gɔ tsʉ' áá
+Pú kə̂ bə́ tsʉ' mkətú' mkətú' mkətú' Kaməlûn (MRC) Kand Owalski lə.
+Pú kə̂ bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m " ambazoniens" ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Â bə́ wə́ bə́ wə́ gɔ pə́ tsʉ' tsʉ' " ambazoniens" pə́ gɔ pə́ gɔ pə́.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' yə ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ Kaməlûn bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ Kaməlûn bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+Â bə́ wə́ wə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ áá
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ " Kaməlûn" bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ pə́ tsʉ' lə.
+Pú kə̂ bə́ Biya kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' Biya lə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Pú bə́ wə́ bə́ Biya bə́ Kaməlûn?
+Pú kə̂ bə́ wə́ bə́ wə́ lə?
+ǎ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Â bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+ǎ bə́ wə́ wə́ bə́ ǎ bə́ wə́ wə́ bə́ ǎ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+Mkətú' Maurice Kamto bə́ wə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ'
+Pú tyə̂' 10 nə́ Dzʉ̂'bvʉ̀ 2021
+Mkətú' ETON kə̂ bə́ wə́ bə́ e kə̂ bə́ e lə?
+Mkətú' Zona Coker kə̂ bə́ "peuple Ekang" kə̂ ghɔm gaə́ "peuple Ekang" lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Mkətú' ETON kə̂ bə́ wə́ bə́ e kə̂ bə́ e lə?
+ǎ bə́ wə́ shə́ŋ gaə́ shə́ŋ shə́ŋ Nkolbogo bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Evou Dzongo kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ ě dzɔ́k lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Amobe Mevegue kə̂ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ lə.
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wáp bə́ wáp bə́ wáp bə́ wáp bə́ wáp bə́ wáp bə́ wáp bə́ wáp bə́ wáp lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ pə́pʉə́ə́ə́
+Pú kə̂ bə́ wə́ bə́ wə́ pə́?
+Ossouan kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Ekang
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Pú tyə̂' 3 nə́ Dzʉ̂'bvʉ̀ 2021
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Mcùŋ Kaməlûn bə́ Samuel Eto'o pú Calixte Beyala ghɔm gaə́ pú a ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ gɔ pə́ tsʉ' Yawùdè gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Tá Félix MbetboCe kə̂ tyə̂' Samuel Eto’o pə́ Beyala bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə.
+Â bə́ Kaməlûn bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Pú kə̂ bə́ wə́ tsʉ' gɔ tsʉ' Kaməlûn kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ tsʉ' lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp bə́ wáp bə́ wáp bə́ wáp gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́
+Â bə́ ǎ bə́ Samuel və Beyala lə̂ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə?
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' lə?
+Pú tyə̂' 6 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ: Canal 2 International?
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́
+Â bə́ tyə̂' "Causerie en Famille" tyə̂' tyə̂' tyə̂' Canal 2 International bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e pə́ é lə.
+Â bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Tsʉ' Green Team gaə́ Renée lə̂ bə́ e kə̂ tyə̂' 32
+ǎ bə́ wə́ bə́ wə́ jɔ́ gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Ě bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Pú kə̂ bə́ jɔ́ gaə́ pú a kə̂ bə́ jɔ́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ě kə̂ bə́ Christian kə̂ bə́ wə́ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Ě bə́ yə̌ŋ gaə̂ bə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ áá
+Â bə́ Christian ghɔm gaə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m lə.
+Pú kə̂ tyə̂' tyə̂' tyə̂' bə́ Christian ghɔm gaə́ ě bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ é lə.
+Ě bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ jɔ́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Pú kə̂ bə́ Christian kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Christian kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Ě bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ ě lə.
+ǎ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú tyə̂' 8 nə́ Dzʉ̂'bvʉ̀ 2021
+KamərunWeb bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' é
+Pú kə̂ bə́ wə́ bə́ gaə́ gɔ tsʉ' gaə́ gɔ tsʉ' lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə
+Ě bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ wə́ tsʉ' yə e kə̂ bə́ e kə̂ tsʉ' Mirabelle lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ shə́ŋ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp
+Mkətú' Mirabelle kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ lə.
+Pú kə̂ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wáp lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' bə́ wə́ tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ě bə́ wə́ bə́ Mirabelle bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́
+ǎ bə́ gaə́ Gayatry Spivak: bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ lə?
+Mirabelle bə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə́ wə
+Mcùŋ Mirabelle kə̂ bə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ pə́.
+Delor Magellain Kamseu Kamdem bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ ě bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' yə ǎ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+A kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ ARSEL bə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp
+Pú kə̂ bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Mutations
+Pú kə̂ bə́ wə́ jɔ́ gaə́ pú a kə̂ bə́ wə́ bə́ wə́ bə́ wə́ ŋkáp Bastos lə.
+Richard Makon kə̂ bə́ wə́ bə́ wə́ bə́ ě kə̂ bə́ ě lə.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+ǎ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ áá
+Pú tyə̂' 09 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ e kə̂ tsʉ' Binku bə́ e kə̂ bə́ e kə̂ tsʉ' e lə.
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ é lə.
+ǎ bə́ Binkù bə́ tsʉ' tsʉ'?
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Ě bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+ǎ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ě bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+ǎ bə́ Binku bə́ wə́ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Pú kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ e lə.
+Ě bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ ǎ bə́ wə́ gaə́ ǎ bə́ wə́ gaə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ gaə́ ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə
+Ě bə́ wə́ bə́ wə́ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ shə́ŋ gaə́ shə́ŋ gaə́ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ shə́ŋ
+Pú kə̂ bə́ wə́ jɔ́ gaə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ gɔ pə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+ǎ bə́ wə́ jɔ́ gaə́ bə́ wə́ jɔ́ bə́ wə́ bə́ wə́ jɔ́ lə
+Ě bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+Ě tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě
+Ě bə́ ě kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂
+Ě kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě bə́ ě lə.
+Pú kə̂ bə́ yɔ́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' lə.
+Ě bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Ě bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+Ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ wə́ bə́ e kə̂ bə́ e kə̂ bə́ é lə.
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə?
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́?
+Pú tyə̂' 09 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' Amobe Mevegue kə̂ tsʉ' lə.
+ǎ bə́ Afrika yə̌ŋ bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+ǎ bə́ tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' lə.
+Â bə́ shə́ŋ gɔ̂pna' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Â bə́ wə́ bə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́pʉə́ə́ pə́pʉə́ə́ə́ pə́pʉə́ə́ə́ pə́pʉə́ə́ə́ pə́ə́
+Pú kə̂ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Tsʉ' yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ bə́
+ǎ bə́ nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' 1
+PƏ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ Ŋwâlǎʼ áá
+Pú kə̂ bə́ tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+PƏ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́
+Â bə́ pú lə̂ Savarine bə́ Malarone bə́ wə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́
+Pú kə̂ bə́ gɔ pə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ nə́ ŋkáp nə́ ŋkáp ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Dôgùŋ bə́ tsʉ' tsʉ' ntʉ́m ntʉ́m tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp
+Â bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ pə́ gɔ pə́ gɔ pə́
+ǎ bə́ gɔ gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' Microbes
+Pú kə̂ bə́ wə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́ tsʉ' gɔ pə́
+Pú bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Â bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+DÔGÙŊ DÔGÙŊ DÔGÙŊ
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́ pə́pʉə́ə́ə́ pə́pʉə́ə́pʉə́ə́ə́pʉə́ə́ə́pʉə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Pú kə̂ bə́ wə́ gɔ pə́ tsʉ' tsʉ' Mimi Fawaz bə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋ
+Â bə́ Douala bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Bonapriso tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́pʉə́ə́ə́pʉə́ə́ə́ə́ə́
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́pʉə́ə́ə́ pə́pʉə́ə́ə́ə́ pə́ pə́ pə́ pə́pʉə́ə́ə́pʉə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə
+PƏ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́ ŊWƏ́
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ pə
+Ŋwâlǎ' gaə́ gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' lə.
+Pú kə̂ bə́ wə́ tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' gɔ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' g
+Â bə́ nə́ ŋkhə̂ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú bə́ pú yɔ́ nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' lə.
+ǎ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ gɔ pə́ lə.
+Dôgùŋ Roger Etoa Dôgùŋ
+Tyə̂' 11 nə́ ŋkə̂mbiyɛ́ 2021, tyə̂' 11 nə́ Dzʉ̂'bvʉ̀ 2021
+Mcùŋ: English Cameroon bə́ United Cameroon?
+Â bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ŋwâlǎʼ KaməlûnWeb ghɔm gaə́ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ tyə̂ʼ
+Pú kə̂ tyə̂' 7 nə́ Dzʉ̂'bvʉ̀ 2021 bə́ tyə̂' tyə̂' tyə̂' 24 nə́ Dzʉ̂'bvʉ̀ 2020 bə́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' 24 nə́ Dzʉ̂'bvʉ̀ 2020 lə.
+Pú bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ tsʉ' yə ǎ bə́ wə́ tsʉ' tsʉ' yə ǎ lə.
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ Kaməlûn lə̂ bə́ ě bə́ e kə̂ bə́ wə́ bə́ ě kə̂ tsʉ' 22 nə́ ŋkə̂ŋkə̂ bə́ é lə.
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' nə́ tsʉ' lə.
+ǎ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́
+Pú kə̂ bə́ wə́ gɔ pə́ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ shə́ŋ gaə́ pú a shə́ŋ gɔ pə́ tsʉ' gɔ pə́ lə.
+Â bə́ wə́ bə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Ŋwâlǎ' gaə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' lə.
+Pú kə̂ ghɔm gaə́ tsʉ' tsʉ' tsʉ' gɔ̂pna' gɔ̂pna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔpna' gɔ
+Ambazonia kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ ghɔm gaə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' gaə́ pú a kə̂ tsʉ' yə ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́
+Â bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mkətú' Kaməlûn bə́ wə́ tsʉ' ntʉ́m tsʉ' ntʉ́m tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ Kaməlûm bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' g
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ pú a Kumba lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' gɔ pə́.
+Pú kə̂ bə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ ghɔm gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Yətsʉ' bə́ ě kə̂ tyə̂' Kaməlûn:
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' lə.
+Pú tyə̂' 4 nə́ Dzʉ̂'bvʉ̀ 2021
+Tâdyə̂: Soter Tarh Agbaw-Ebai
+Pú bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Â bə́ tyə̂' Soter Tarh Agbaw -Ebai bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m mkətú' ntʉ́m mkətú' mkətú' ntʉ́m mkətú' ntʉ́m mkətú' ntʉ́m mkətú' ntʉ́m mkətú' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Yawudeperd bə́ wə́ shə́ŋ gɔ̂pnaʼ Kaməlûn bə́ wə́ tsʉʼ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməl
+Mkətú' Roland Pré bə́ ě ghɔm gaə́ pú a ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Mkətú' mkətú' Kaməlûn lə?
+ǎ bə́ Kaməlûn Concord News Group bə́ wə́ tsʉ' tsʉ' ntʉ́m gɔ̂pna'
+ǎ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' 4 nə́ tsʉ' lə.
+Mkətú' Ambazonie bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kaməlûn bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Biya bə́ wə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ lə.
+Biya 88 bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Franck Biya tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Biya bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ ě kə̂ bə́ ě kə̂ bə́ wə́ bə́ ě kə̂ bə́ Kaməlûn bə́ ě lə?
+ǎ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Biya kə̂ bə́ wə́ bə́ ě ghɔm gaə́ Kaməlûn ghɔm gaə́ pú a Kaməlûn bə́ ě ghɔm gaə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ pə́ p
+Mcùŋ John Agbor Tabi " Biya kə̂ tsʉ'" bə́ e kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Mkətú' Ambazonie bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Tsʉ' Njangi) mkətú' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Pú kə̂ bə́ wə́ gɔ pə́ tsʉ' tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+Â bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Kaməlûn
+Mkətú' mkətú' mkətú' mkətú' mkətú' mkətú' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ gɔ pə́.
+Mkətú' gaə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́
+Pú tyə̂' 3 nə́ Dzʉ̂'bvʉ̀ 2021
+Luc Magloire Mbarga Atangana kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' 700 FCFA
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' Ferdinand Ngoh Ngoh tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎʼ KaməlûnWeb bə́ ŋwâlǎʼ nə́ ŋkhə̌ŋkhə̌ŋkhə̌ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌
+TASK FORCE COVID-19 nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Tsʉ' 500 000 tsʉ' AG COVID-19 nə́ 250 000 tsʉ' bə́ 250 000 tsʉ' tsʉ' bə́ 250 000 tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Luc Magloire Mbarga Atangana kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ nə́ 700 FCFA
+Ferdinand Ngoh Ngoh bə́ ě ghɔm gaə́ pú a kə̂ tyə̂' tyə̂' 6250 tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Ŋwâlǎ' bə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ' nə́ ŋwâlǎ'?
+Luc Magloire Mbarga kə̂ bə́ wə́ bə́ ě kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə?
+Â bə́ AEHAN GLOBAL bə́ Ferdinand Ngoh Ngoh bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+Pú bə́ PORTSEC tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ ě lə.
+Â bə́ wə́ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ ǎ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú tyə̂' 4 nə́ Dzʉ̂'bvʉ̀ 2021
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ ntʉ́m Kaməlûn bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Ahidjo kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ ntʉ́m Kaməlûn lə.
+Cabral Libii kə̂ bə́ nə́ ŋkə̂ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə́ŋ
+Â bə́ nə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp nə́ ŋkáp lə.
+Â bə́ wə́ bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ bə́ wə́ tsʉ' tsʉ' gɔ pə́.
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Pú kə̂ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ bə́ Kaməlûn bə́ ě lə̂ bə́ ě lə.
+ǎ bə́ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' gɔ̂pna' lə.
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə?
+Pú kə̂ bə́ gaə́ gaə́ pú a pə́ yɔ́ gaə́ pú a pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Ŋwâlǎʼ Kaməlûn bə́ ŋwâlǎʼ tsʉʼ gɔ̂pnaʼ Kaməlûn bə́ ŋwâlǎʼ
+Â bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+ǎ bə́ ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̌ŋkhə̀ŋ
+Â bə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' lə.
+Dôgùŋ Kaməlûn bə́ wə́ bə́ tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m Kaməl
+Dəŋdzə Kaməlûn bə́ nə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Ŋwâlǎʼ Kaməlûn bə́ ŋwâlǎʼ bə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ nə́ ŋwâlǎʼ
+Â bə́ wə́ tsʉ' gɔ̂pna' gɔ pə́ gɔ pə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m nt
+ǎ bə́ Kaməlûn bə́ wə́ bə́ ě kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' t
+ǎ bə́ Kaməlûn bə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm gaə́ ě ghɔm áá
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ pə
+Â bə́ wə́ bə́ wə́ tsʉ' lə.
+Â bə́ nə́ gɔ pə́ gɔ pə́.
+Mkətú' Kaməlûn lə.
+Pú kə̂ bə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ e kə̂ ghɔm gaə́ é lə.
+Mkətú' Yawùdè bə́ e kə̂ bə́ e kə̂ tyə̂' Douala.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Pú kə̂ bə́ gaə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' ts
+Mkətú' Yawùdè pú Douala.
+Ě bə́ e kə̂ bə́ é lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ yɔ́k pə́.
+Pú kə̂ bə́ wə́ bə́ ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Mkətú' Ngawe Eko kə̂ bə́ wə́ tsʉ' ambazoniŋ.
+Â bə́ wə́ bə́ Ambazoni pú a pəpʉə́ə́ə́ pəpʉə́ə́ə́ pəpʉə́ə́ə́ə́.
+Pú kə̂ bə́ wə́ bə́ wə́ yɔ́k pə́.
+Pú kə̂ ghɔm gaə́ pú a kə̂ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm gaə́ ghɔm lə.
+Pú kə̂ bə́ wə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wáp lə.
+Pú kə̂ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' Douala.
+Martin Camus Mimb bə́ Wilfried Eteki kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ tsʉ' bə́ Mimb Hiol Martin bə́ Eteki Otabela Wilfred lə.
+Camus Mimb pú a shə́ŋ gaə́ pú a shə́ŋ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ bə́ wə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́.
+Pú kə̂ bə́ wə́ bə́ wə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Shakiro lə̂ bə́ ě ghɔm gaə́ é lə.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'
+Pú kə̂ bə́ wə́ bə́ e kə̂ bə́ é lə.
+Tsʉ' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂'
+Pú kə̂ bə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ lə.
+Pú kə̂ ghɔm gaə́ yɔ́ gaə́ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ yə̌ŋ Bankoui lə.
+Fridolin Nke kə̂ bə́ ě ghɔm gaə̂ Fridolin Nke kə̂ ghɔm lə.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ ŋkáp lə.
+Pú kə̂ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'.
+ǎ bə́ nə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ'!!!
+Pú kə̂ bə́ jɔ́ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' t
+Avinash Hingorani kə̂ bə́ wə́ bə́ wə́ bə́ wə́ gɔ̂pna' lə.
+Â bə́ EcoMatin bə́ wə́ tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ tsʉ' tsʉ' Avinash Hingorani bə́ wə́ tsʉ' Kaməlûn lə.
+Ghə̌ŋlá' BAS ntʉ́m ntʉ́m ntʉ́m BAS ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m BAS
+Pú bə́ pá' Paul Biya lə.
+Â bə́ wə́ tsʉ' ntʉ́m tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ tyə̂' tyə̂' tyə̂' tyə̂' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Â bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ pə́ gɔ
+Mcùŋ Kaməlûm Tyə̂' 13 nə́ Dzʉ̂'bvʉ̀ 2021.
+Pú kə̂ tyə̂' tyə̂' tyə̂' Yawùdè gɔ tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tyə̂' tsʉ' lə.
+Mkətú' Minsanté kə̂ bə́ wə́ tsʉ' pəpúŋ Kaməlûn lə.
+Pú kə̂ bə́ tyə̂' 81 488 bə́ Covid-19- 19 79 920 bə́ 1 340 gɔ̂pna'.
+Pú kə̂ bə́ tsʉ' 312 pə́pʉə́ə́pʉə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́ə́
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' 98%.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ bə́ wə́ bə́ wə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' lə.
+Â bə́ wə́ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m tsʉ' tsʉ' ntʉ́m tsʉ' ntʉ́m tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m
+Pú kə̂ bə́ wə́ tsʉ' tsʉ' ntʉ́m tsʉ' tsʉ' ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ́m ntʉ
+Pú kə̂ bə́ gɔ tsʉ' 122 000 dyə̂ AstraZeneca.
+Pú kə̂ bə́ tsʉ' mkətú' Pev gɔ pə́ tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ' tsʉ
+Pú kə̂ tyə̂' 23 nə́ Dzʉ̂'bvʉ̀ nə́ tyə̂'bvʉ̀ nə́ tyə̂'bvʉ̀ nə́ tyə̂'bvʉ̀.
+Pú kə̂ bə́ tsʉ' tsʉ' tsʉ' ntʉ́m gɔpna'.
+Pú kə̂ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ bə́ wə́ lə.
+Pú kə̂ bə́ wə́ shə́ŋ gaə́ pú a kə̂ bə́ é lə.
+Ě bə́ shə́ŋ Suisse ghɔm gaə́ Paul Biya bə́ é lə.
+Paul Biya kə̂ tyə̂' tyə̂' bə́ Paul Biya kə̂ tyə̂' Genève.
