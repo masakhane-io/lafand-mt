@@ -47,11 +47,12 @@ If you use existing corpus, please cite their papers
 
 
 ### Adaptation of mT5 and ByT5
-For the adaptation of mT5 and ByT5 models, we trained on 17 African languages and 3 high-resource languages (English, French and Arabic). The dataset is available on [Zenodo](https://zenodo.org/record/6990611#.Yv6le3UzY5k). Thank you [Jesujoba Alabi](https://ajesujoba.github.io/) for preparing the data. 
+For the adaptation of mT5 and ByT5 models, we trained on 17 African languages and 3 high-resource languages (English, French and Arabic). The dataset is available on Zenodo i.e [AfroMAFT Corpus](https://zenodo.org/record/6990611#.Yv6le3UzY5k). Thank you [Jesujoba Alabi](https://ajesujoba.github.io/) for preparing the data. 
 
-The pre-training code is available in [mt5_byt5_pre-training](https://github.com/masakhane-io/lafand-mt/tree/main/mt5_byt5_pre_training) directory. A big thank you to [Xiaoyu Shen](https://scholar.google.de/citations?user=BWfPrE4AAAAJ&hl=zh-TW) for providing the code and instructions. 
+The pre-training code is available in [mt5_byt5_pre-training](https://github.com/masakhane-io/lafand-mt/tree/main/mt5_byt5_pre_training) directory. A big thank you to [Xiaoyu Shen](https://scholar.google.de/citations?user=BWfPrE4AAAAJ&hl=zh-TW) for providing the code and instructions. The pre-trained AfriMT5 and AfriByT5 are available on HuggingFace Model Hub
 
 ### Adaptation of mBART50
+Similar to mT5, we performed continued pre-trained on [AfroMAFT Corpus](https://zenodo.org/record/6990611#.Yv6le3UzY5k). The instructions are provided in [mbart_pre-training](https://github.com/masakhane-io/lafand-mt/tree/main/mbart_pre-training). A big thank you to [Machel Reid](https://machelreid.github.io/) and [Ernie Chang](https://scholar.google.com/citations?user=FbR5cAMAAAAJ&hl=en)
 
 ### Fine-tune mT5, M2M100, and byT5 using [HuggingFace Transformers](https://github.com/huggingface/transformers/tree/master/examples/pytorch/translation)
 
