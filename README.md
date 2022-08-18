@@ -41,9 +41,9 @@ The dataset includes the following languages:
 ### Existing corpus
 
 If you use existing corpus, please cite their papers
-- Igbo (ibo) --- We make use of [Igbo News MT corpus](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt), we defined new train/dev/test
-- Yoruba (yor) --- from the news domain part of [MENYO-20k](https://github.com/uds-lsv/menyo-20k_MT), we defined new modified train/dev/test split
-- Zulu (zul) --- obtained from [Umsuka on Zenodo](https://zenodo.org/record/5035171#.YvpeXHUzY5k). We use the test split, but defined a new dev split
+- Igbo (ibo): We make use of [Igbo News MT corpus](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt), we defined new train/dev/test
+- Yoruba (yor): from the news domain part of [MENYO-20k](https://github.com/uds-lsv/menyo-20k_MT), we defined new modified train/dev/test split
+- Zulu (zul): obtained from [Umsuka on Zenodo](https://zenodo.org/record/5035171#.YvpeXHUzY5k). We use the test split, but defined a new dev split
 
 
 ### Adaptation of mT5 and ByT5
