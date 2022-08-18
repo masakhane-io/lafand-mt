@@ -1,5 +1,5 @@
 ## mBART fine-tuning
-The following is the sample script provided by [Machel Reid] for continue pre-training of mBART50
+The following is the sample script provided by [Machel Reid](https://machelreid.github.io/) for continue pre-training of mBART50
 
 ```
 mv am th_TH; mv ha pt_XX; mv zu te_IN; mv yo ta_IN; mv rw hi_IN; mv sn et_EE; mv ig it_IT; mv mg sv_SE; mv ny gu_IN; mv om ro_RO; mv pcm ne_NP; mv so zh_CN; mv st pl_PL
