@@ -1,0 +1,38 @@
+requirement:
+* PyTorch, tested with version 1.7 and 1.10. Any version >=1.7 should work.
+* Transformers 4.10, install with “pip install transformers==4.10”
+* datasets, install with “pip install datasets”
+* install apex to use fp16, see https://github.com/NVIDIA/apex
+* install fairscale to use distributed training, see https://github.com/facebookresearch/fairscale
+
+preprocess data to the input format:
+run preprocess.py
+line 74, change the number 258 to the first token id when using mT5.
+
+run bash distribute_train.sh to train
+
+parameters explanation:
+* tokenizer_name: checkpoint folder or a huggingface identifier
+* model_name: checkpoint folder used for initialization or a huggingface identifier
+* data_dir: dataset folder
+* max_source_length: maximum source length in the training, longer will be truncated, default 128
+* num_labels: number of label classes (2 for cPQA0/USB and 3 for GQA)
+* metric_for_best_model: metrics used to select the model, default “accuracy”
+* greater_is_better: if true, then select the model with the greatest metric and vice versa
+* output_dir: path of the output checkpoint
+* per_device_eval_batch_size: batch size for evaluation, default set as 512
+* eval_steps: every number of steps to evaluate on the dev set, default set as 1% of whole training steps
+* fp16: if true, use fp16, default set as true
+* gradient_accumulation_steps: number of gradient accumulation steps, default set as 1
+* save_steps: every number of steps to save the model, default set as 1% of whole training steps
+* save_total_limit: maximum saved checkpoint, default set as 1
+* per_device_train_batch_size: batch size for training, default set as 64
+* num_train_epochs: total number of train epochs, default set as 3
+* warmup_steps: warm up step, default set as 20% of the whole training steps
+* learning_rate: learning rate, default set as 3e-5
+* gpus= ... GPU ids used, default as 0,1,2,3,4,5,6,7
+* nproc_per_node= .. number of GPUs used, default as 8
+* ddp_find_unused_parameters: default false
+* sharded_ddp: default zero_dp_3
+
+the data_dir folder should have train.source/train.target, dev.source/dev.target files
