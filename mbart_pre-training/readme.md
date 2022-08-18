@@ -1,9 +1,16 @@
 ## mBART fine-tuning
-The following is the sample script provided by [Machel Reid](https://machelreid.github.io/) for continue pre-training of mBART50
+The following is the sample script provided by [Machel Reid](https://machelreid.github.io/) for continue pre-training of mBART50. He followed the following steps
+
+- Rename language folders by fake language codes supported by mBART50. 
 
 ```
 mv am th_TH; mv ha pt_XX; mv zu te_IN; mv yo ta_IN; mv rw hi_IN; mv sn et_EE; mv ig it_IT; mv mg sv_SE; mv ny gu_IN; mv om ro_RO; mv pcm ne_NP; mv so zh_CN; mv st pl_PL
+```
+- Preprocess the texts using sentencepiece, further instructions are [here](https://github.com/facebookresearch/fairseq/tree/main/examples/multilingual#mbart50-models). There is an example of applying it for [en-ro](https://github.com/facebookresearch/fairseq/tree/main/examples/mbart)
 
+- Continue pre-training starting from the old checkpoint (i.e the $RESTORE_FILE)
+
+```
 CUDA_VISIBLE_DEVICES=0 $HOME/miniconda3/envs/py3/bin/fairseq-train \
 $SHARD_STR \
 --task=multilingual_denoising \
@@ -86,3 +93,4 @@ $SHARD_STR \
 ```
 
 ## Another Alternative
+Pre-train using huggingface, provided by [Ernie Chang](https://scholar.google.com/citations?user=FbR5cAMAAAAJ&hl=en), please follow this [link](https://gitlab.com/erniecyc/finetune-scripts/-/tree/main/)
