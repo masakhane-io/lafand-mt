@@ -4,7 +4,7 @@ This repository contains a newly created MT dataset in the news domain known as 
 
 The code is based on HuggingFace implementation (License: Apache 2.0).
 
-The license of the MT dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the French/English monolingual data we translated from have difference licenses depending on the news website license. 
+The license of the MT dataset is in [CC-BY-4.0-NC](https://creativecommons.org/licenses/by-nc/4.0/), the French/English source texts we translated from have difference licenses depending on the news website license. 
 
 ### Required dependencies
 * python
