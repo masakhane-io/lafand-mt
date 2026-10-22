@@ -19,6 +19,7 @@ Fine-tuning the library models for sequence to sequence.
 # You can also adapt this script on your own sequence to sequence task. Pointers for this are left as comments.
 
 import logging
+from language_keys import resolve_dataset_languages, translation_texts
 import os
 import sys
 from dataclasses import dataclass, field
@@ -105,6 +106,9 @@ class DataTrainingArguments:
 
     source_lang: str = field(default=None, metadata={"help": "Source language id for translation."})
     target_lang: str = field(default=None, metadata={"help": "Target language id for translation."})
+
+    dataset_source_lang: Optional[str] = field(default=None, metadata={"help": "Source key in translation records (independent of tokenizer language code)."})
+    dataset_target_lang: Optional[str] = field(default=None, metadata={"help": "Target key in translation records (independent of tokenizer language code)."})
 
     dataset_name: Optional[str] = field(
         default=None, metadata={"help": "The name of the dataset to use (via the datasets library)."}
@@ -391,8 +395,10 @@ def main():
         model.config.forced_bos_token_id = forced_bos_token_id
 
     # Get the language codes for input/target.
-    source_lang = data_args.source_lang.split("_")[0]
-    target_lang = data_args.target_lang.split("_")[0]
+    source_lang, target_lang = resolve_dataset_languages(
+        data_args.source_lang, data_args.target_lang,
+        data_args.dataset_source_lang, data_args.dataset_target_lang,
+    )
 
     # Temporarily set max_target_length for training.
     max_target_length = data_args.max_target_length
@@ -405,8 +411,7 @@ def main():
         )
 
     def preprocess_function(examples):
-        inputs = [ex[source_lang] for ex in examples["translation"]]
-        targets = [ex[target_lang] for ex in examples["translation"]]
+        inputs, targets = translation_texts(examples, source_lang, target_lang)
         inputs = [prefix + inp for inp in inputs]
         model_inputs = tokenizer(inputs, max_length=data_args.max_source_length, padding=padding, truncation=True)
 
@@ -599,7 +604,7 @@ def main():
             else:
                 kwargs["dataset"] = data_args.dataset_name
 
-        languages = [l for l in [data_args.source_lang, data_args.target_lang] if l is not None]
+        languages = [l for l in [source_lang, target_lang] if l is not None]
         if len(languages) > 0:
             kwargs["language"] = languages
 

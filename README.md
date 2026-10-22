@@ -192,3 +192,20 @@ python run_translation.py \
     abstract = "Recent advances in the pre-training for language models leverage large-scale datasets to create multilingual models. However, low-resource languages are mostly left out in these datasets. This is primarily because many widely spoken languages that are not well represented on the web and therefore excluded from the large-scale crawls for datasets. Furthermore, downstream users of these models are restricted to the selection of languages originally chosen for pre-training. This work investigates how to optimally leverage existing pre-trained models to create low-resource translation systems for 16 African languages. We focus on two questions: 1) How can pre-trained models be used for languages not included in the initial pretraining? and 2) How can the resulting translation models effectively transfer to new domains? To answer these questions, we create a novel African news corpus covering 16 languages, of which eight languages are not part of any existing evaluation dataset. We demonstrate that the most effective strategy for transferring both additional languages and additional domains is to leverage small quantities of high-quality translation data to fine-tune large pre-trained models.",
 }
 ```
+
+### Dataset keys versus tokenizer language codes
+
+`--source_lang`, `--target_lang` and `--forced_bos_token` still configure the
+model/tokenizer. Use `--dataset_source_lang` and `--dataset_target_lang` when
+the actual JSON translation keys differ. For example, French–Bambara records
+with `fr`/`bam` keys can be read using `--source_lang fr --target_lang sw
+--forced_bos_token sw --dataset_source_lang fr --dataset_target_lang bam`
+when intentionally using a supported model-language alias. This is an explicit
+configuration example, not a claim that `sw` is the optimal alias for a model.
+
+Without explicit dataset keys, the previous underscore-short-code behavior
+is retained. Missing keys and non-text translation fields fail with row/key
+diagnostics before tokenization. Generated model-card languages describe the
+dataset languages rather than proxy codes. No model vocabulary is expanded.
+Tests: `python -m pytest -q tests/test_language_keys.py` (pytest only; tokenizer
+integration uses a deterministic local fixture, with no model download).
